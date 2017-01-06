@@ -1,0 +1,197 @@
+﻿<table cellspacing="0" rules="all" border="1" style="border-collapse:collapse;">
+	<tr>
+		<td>Code</td><td>BOP.N4440003.Q</td>
+	</tr><tr>
+		<td>Description</td><td>Nonresidents’ investments in Israel - investment in tradable securities - notes and bonds - makam</td>
+	</tr><tr>
+		<td>Frequency</td><td>Quarterly (Q)</td>
+	</tr><tr>
+		<td>Units</td><td>$, million</td>
+	</tr><tr>
+		<td>Price base</td><td>Current prices</td>
+	</tr><tr>
+		<td>Seasonal adjustment</td><td>Original</td>
+	</tr><tr>
+		<td>Data source</td><td>CBS</td>
+	</tr><tr>
+		<td>Data type</td><td>SUMMED</td>
+	</tr><tr>
+		<td>Process</td><td>-</td>
+	</tr><tr>
+		<td>Documentation</td><td>-</td>
+	</tr><tr>
+		<td>Main subject</td><td>External Sector</td>
+	</tr><tr>
+		<td>Sub subject 1</td><td>Balance of payments - Financial Account</td>
+	</tr><tr>
+		<td>Sub subject 2</td><td>Nonresident Investment in Israel</td>
+	</tr><tr>
+		<td>Sub subject 3</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>Sub subject 4</td><td>&nbsp;</td>
+	</tr>
+</table><table cellspacing="0" rules="all" border="1" style="border-collapse:collapse;">
+	<tr>
+		<td>31/03/1995</td><td>                2.100000</td>
+	</tr><tr>
+		<td>30/06/1995</td><td>               -0.300000</td>
+	</tr><tr>
+		<td>30/09/1995</td><td>               -2.700000</td>
+	</tr><tr>
+		<td>31/12/1995</td><td>                1.100000</td>
+	</tr><tr>
+		<td>31/12/1996</td><td>               -0.600000</td>
+	</tr><tr>
+		<td>31/12/1997</td><td>               -9.100000</td>
+	</tr><tr>
+		<td>31/03/1998</td><td>              -10.200000</td>
+	</tr><tr>
+		<td>30/06/1998</td><td>              -19.700000</td>
+	</tr><tr>
+		<td>30/09/1998</td><td>               12.600000</td>
+	</tr><tr>
+		<td>31/12/1998</td><td>               24.100000</td>
+	</tr><tr>
+		<td>31/03/1999</td><td>               -0.100000</td>
+	</tr><tr>
+		<td>30/06/1999</td><td>              -13.000000</td>
+	</tr><tr>
+		<td>30/09/1999</td><td>              -23.700000</td>
+	</tr><tr>
+		<td>31/12/1999</td><td>               -6.300000</td>
+	</tr><tr>
+		<td>31/03/2000</td><td>               45.200000</td>
+	</tr><tr>
+		<td>30/06/2000</td><td>              -45.600000</td>
+	</tr><tr>
+		<td>30/09/2000</td><td>                3.400000</td>
+	</tr><tr>
+		<td>31/12/2000</td><td>                4.200000</td>
+	</tr><tr>
+		<td>31/03/2001</td><td>               -1.300000</td>
+	</tr><tr>
+		<td>30/06/2001</td><td>               -0.300000</td>
+	</tr><tr>
+		<td>30/09/2001</td><td>               -2.000000</td>
+	</tr><tr>
+		<td>31/12/2001</td><td>               -3.900000</td>
+	</tr><tr>
+		<td>31/03/2002</td><td>               -0.400000</td>
+	</tr><tr>
+		<td>30/06/2002</td><td>               38.700000</td>
+	</tr><tr>
+		<td>30/09/2002</td><td>              120.800000</td>
+	</tr><tr>
+		<td>31/12/2002</td><td>             -134.200000</td>
+	</tr><tr>
+		<td>31/03/2003</td><td>               87.600000</td>
+	</tr><tr>
+		<td>30/06/2003</td><td>              -35.500000</td>
+	</tr><tr>
+		<td>30/09/2003</td><td>               74.500000</td>
+	</tr><tr>
+		<td>31/12/2003</td><td>               43.500000</td>
+	</tr><tr>
+		<td>31/03/2004</td><td>               17.400000</td>
+	</tr><tr>
+		<td>30/06/2004</td><td>             -170.000000</td>
+	</tr><tr>
+		<td>30/09/2004</td><td>               70.500000</td>
+	</tr><tr>
+		<td>31/12/2004</td><td>              -30.400000</td>
+	</tr><tr>
+		<td>31/03/2005</td><td>              -46.900000</td>
+	</tr><tr>
+		<td>30/06/2005</td><td>                7.200000</td>
+	</tr><tr>
+		<td>30/09/2005</td><td>                4.800000</td>
+	</tr><tr>
+		<td>31/12/2005</td><td>               92.500000</td>
+	</tr><tr>
+		<td>31/03/2006</td><td>              137.500000</td>
+	</tr><tr>
+		<td>30/06/2006</td><td>              -82.900000</td>
+	</tr><tr>
+		<td>30/09/2006</td><td>              -65.400000</td>
+	</tr><tr>
+		<td>31/12/2006</td><td>               81.500000</td>
+	</tr><tr>
+		<td>31/03/2007</td><td>                5.900000</td>
+	</tr><tr>
+		<td>30/06/2007</td><td>              670.300000</td>
+	</tr><tr>
+		<td>30/09/2007</td><td>             -760.800000</td>
+	</tr><tr>
+		<td>31/12/2007</td><td>               60.300000</td>
+	</tr><tr>
+		<td>31/03/2008</td><td>              -34.300000</td>
+	</tr><tr>
+		<td>30/06/2008</td><td>              -44.600000</td>
+	</tr><tr>
+		<td>30/09/2008</td><td>               88.500000</td>
+	</tr><tr>
+		<td>31/12/2008</td><td>              -13.800000</td>
+	</tr><tr>
+		<td>31/03/2009</td><td>               51.700000</td>
+	</tr><tr>
+		<td>30/06/2009</td><td>              -60.100000</td>
+	</tr><tr>
+		<td>30/09/2009</td><td>              601.900000</td>
+	</tr><tr>
+		<td>31/12/2009</td><td>              369.300000</td>
+	</tr><tr>
+		<td>31/03/2010</td><td>             2055.400000</td>
+	</tr><tr>
+		<td>30/06/2010</td><td>             2680.000000</td>
+	</tr><tr>
+		<td>30/09/2010</td><td>              243.400000</td>
+	</tr><tr>
+		<td>31/12/2010</td><td>             4235.300000</td>
+	</tr><tr>
+		<td>31/03/2011</td><td>             1341.900000</td>
+	</tr><tr>
+		<td>30/06/2011</td><td>             -276.800000</td>
+	</tr><tr>
+		<td>30/09/2011</td><td>            -3430.400000</td>
+	</tr><tr>
+		<td>31/12/2011</td><td>            -4500.200000</td>
+	</tr><tr>
+		<td>31/03/2012</td><td>            -1618.600000</td>
+	</tr><tr>
+		<td>30/06/2012</td><td>            -1658.600000</td>
+	</tr><tr>
+		<td>30/09/2012</td><td>              -16.300000</td>
+	</tr><tr>
+		<td>31/12/2012</td><td>             -339.600000</td>
+	</tr><tr>
+		<td>31/03/2013</td><td>             -152.300000</td>
+	</tr><tr>
+		<td>30/06/2013</td><td>             -155.700000</td>
+	</tr><tr>
+		<td>30/09/2013</td><td>               -0.600000</td>
+	</tr><tr>
+		<td>31/12/2013</td><td>               -1.200000</td>
+	</tr><tr>
+		<td>31/03/2014</td><td>               -0.900000</td>
+	</tr><tr>
+		<td>30/06/2014</td><td>               -0.300000</td>
+	</tr><tr>
+		<td>30/09/2014</td><td>              879.700000</td>
+	</tr><tr>
+		<td>31/12/2014</td><td>              331.500000</td>
+	</tr><tr>
+		<td>31/03/2015</td><td>             -259.500000</td>
+	</tr><tr>
+		<td>30/06/2015</td><td>             -258.900000</td>
+	</tr><tr>
+		<td>30/09/2015</td><td>              224.900000</td>
+	</tr><tr>
+		<td>31/12/2015</td><td>             -428.100000</td>
+	</tr><tr>
+		<td>31/03/2016</td><td>              966.800000</td>
+	</tr><tr>
+		<td>30/06/2016</td><td>             -826.000000</td>
+	</tr><tr>
+		<td>30/09/2016</td><td>             -337.500000</td>
+	</tr>
+</table>

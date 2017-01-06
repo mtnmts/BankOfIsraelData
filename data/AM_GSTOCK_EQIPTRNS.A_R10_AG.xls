@@ -1,0 +1,117 @@
+﻿<table cellspacing="0" rules="all" border="1" style="border-collapse:collapse;">
+	<tr>
+		<td>Code</td><td>AM_GSTOCK_EQIPTRNS.A_R10_AG</td>
+	</tr><tr>
+		<td>Description</td><td>Gross Capital Stock - investment in branches - machin., transport equip. and intangible assets</td>
+	</tr><tr>
+		<td>Frequency</td><td>Annual (A)</td>
+	</tr><tr>
+		<td>Units</td><td>NIS, thousands</td>
+	</tr><tr>
+		<td>Price base</td><td>Fixed 2010 prices</td>
+	</tr><tr>
+		<td>Seasonal adjustment</td><td>Original</td>
+	</tr><tr>
+		<td>Data source</td><td>CBS</td>
+	</tr><tr>
+		<td>Data type</td><td>BEGINNING</td>
+	</tr><tr>
+		<td>Process</td><td>-</td>
+	</tr><tr>
+		<td>Documentation</td><td>"</td>
+	</tr><tr>
+		<td>Main subject</td><td>External Sector</td>
+	</tr><tr>
+		<td>Sub subject 1</td><td>Balance of payments - Financial Account</td>
+	</tr><tr>
+		<td>Sub subject 2</td><td>Nonresident Investment in Israel</td>
+	</tr><tr>
+		<td>Sub subject 3</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>Sub subject 4</td><td>&nbsp;</td>
+	</tr>
+</table><table cellspacing="0" rules="all" border="1" style="border-collapse:collapse;">
+	<tr>
+		<td>31/12/1975</td><td>         79828411.536020</td>
+	</tr><tr>
+		<td>31/12/1976</td><td>         85300499.492291</td>
+	</tr><tr>
+		<td>31/12/1977</td><td>         88940176.794709</td>
+	</tr><tr>
+		<td>31/12/1978</td><td>         91583375.125347</td>
+	</tr><tr>
+		<td>31/12/1979</td><td>         95043274.472656</td>
+	</tr><tr>
+		<td>31/12/1980</td><td>        100346953.546833</td>
+	</tr><tr>
+		<td>31/12/1981</td><td>        102151191.528479</td>
+	</tr><tr>
+		<td>31/12/1982</td><td>        104861519.257076</td>
+	</tr><tr>
+		<td>31/12/1983</td><td>        109137941.908764</td>
+	</tr><tr>
+		<td>31/12/1984</td><td>        116982154.790941</td>
+	</tr><tr>
+		<td>31/12/1985</td><td>        121656066.669240</td>
+	</tr><tr>
+		<td>31/12/1986</td><td>        124632618.859044</td>
+	</tr><tr>
+		<td>31/12/1987</td><td>        127624429.124230</td>
+	</tr><tr>
+		<td>31/12/1988</td><td>        131922939.433339</td>
+	</tr><tr>
+		<td>31/12/1989</td><td>        134836597.192421</td>
+	</tr><tr>
+		<td>31/12/1990</td><td>        135164469.055375</td>
+	</tr><tr>
+		<td>31/12/1991</td><td>        138610273.565809</td>
+	</tr><tr>
+		<td>31/12/1992</td><td>        146245163.568407</td>
+	</tr><tr>
+		<td>31/12/1993</td><td>        154658202.305721</td>
+	</tr><tr>
+		<td>31/12/1994</td><td>        165937670.863239</td>
+	</tr><tr>
+		<td>31/12/1995</td><td>        182374185.299004</td>
+	</tr><tr>
+		<td>31/12/1996</td><td>        222008220.183608</td>
+	</tr><tr>
+		<td>31/12/1997</td><td>        266311218.526623</td>
+	</tr><tr>
+		<td>31/12/1998</td><td>        308138032.797553</td>
+	</tr><tr>
+		<td>31/12/1999</td><td>        342399639.419692</td>
+	</tr><tr>
+		<td>31/12/2000</td><td>        372749768.541555</td>
+	</tr><tr>
+		<td>31/12/2001</td><td>        399211022.543641</td>
+	</tr><tr>
+		<td>31/12/2002</td><td>        420581285.597107</td>
+	</tr><tr>
+		<td>31/12/2003</td><td>        430917609.624791</td>
+	</tr><tr>
+		<td>31/12/2004</td><td>        434494698.822936</td>
+	</tr><tr>
+		<td>31/12/2005</td><td>        440551121.038258</td>
+	</tr><tr>
+		<td>31/12/2006</td><td>        448066079.949271</td>
+	</tr><tr>
+		<td>31/12/2007</td><td>        458302728.119619</td>
+	</tr><tr>
+		<td>31/12/2008</td><td>        478839374.048379</td>
+	</tr><tr>
+		<td>31/12/2009</td><td>        500827691.615119</td>
+	</tr><tr>
+		<td>31/12/2010</td><td>        515417108.164419</td>
+	</tr><tr>
+		<td>31/12/2011</td><td>        534856891.097531</td>
+	</tr><tr>
+		<td>31/12/2012</td><td>        566536809.349728</td>
+	</tr><tr>
+		<td>31/12/2013</td><td>        595278904.270119</td>
+	</tr><tr>
+		<td>31/12/2014</td><td>        620684555.071452</td>
+	</tr><tr>
+		<td>31/12/2015</td><td>        641731008.789000</td>
+	</tr>
+</table>

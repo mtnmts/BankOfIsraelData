@@ -1,0 +1,57 @@
+﻿<table cellspacing="0" rules="all" border="1" style="border-collapse:collapse;">
+	<tr>
+		<td>Code</td><td>PU.TSB_BAGR_TZAMUD_24Y.M</td>
+	</tr><tr>
+		<td>Description</td><td>Gross yield to maturity - Indexed govt. bonds, fixed interest - 24 years</td>
+	</tr><tr>
+		<td>Frequency</td><td>Monthly (M)</td>
+	</tr><tr>
+		<td>Units</td><td>Percent</td>
+	</tr><tr>
+		<td>Price base</td><td>-</td>
+	</tr><tr>
+		<td>Seasonal adjustment</td><td>Original</td>
+	</tr><tr>
+		<td>Data source</td><td>Bank of Israel - Capital market</td>
+	</tr><tr>
+		<td>Data type</td><td>AVERAGED</td>
+	</tr><tr>
+		<td>Process</td><td>-</td>
+	</tr><tr>
+		<td>Documentation</td><td>Yield to maturity on fixed rate CPI-indexed government bond</td>
+	</tr><tr>
+		<td>Main subject</td><td>External Sector</td>
+	</tr><tr>
+		<td>Sub subject 1</td><td>Balance of payments - Financial Account</td>
+	</tr><tr>
+		<td>Sub subject 2</td><td>Nonresident Investment in Israel</td>
+	</tr><tr>
+		<td>Sub subject 3</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>Sub subject 4</td><td>&nbsp;</td>
+	</tr>
+</table><table cellspacing="0" rules="all" border="1" style="border-collapse:collapse;">
+	<tr>
+		<td>31/12/2011</td><td>                2.821905</td>
+	</tr><tr>
+		<td>31/01/2012</td><td>                2.743913</td>
+	</tr><tr>
+		<td>29/02/2012</td><td>                2.753158</td>
+	</tr><tr>
+		<td>31/03/2012</td><td>                2.836000</td>
+	</tr><tr>
+		<td>30/04/2012</td><td>                2.873684</td>
+	</tr><tr>
+		<td>31/05/2012</td><td>                2.858636</td>
+	</tr><tr>
+		<td>30/06/2012</td><td>                2.850500</td>
+	</tr><tr>
+		<td>31/07/2012</td><td>                2.693182</td>
+	</tr><tr>
+		<td>31/08/2012</td><td>                2.689091</td>
+	</tr><tr>
+		<td>30/09/2012</td><td>                2.734000</td>
+	</tr><tr>
+		<td>31/10/2012</td><td>                2.635500</td>
+	</tr>
+</table>

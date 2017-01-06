@@ -1,0 +1,67 @@
+﻿<table cellspacing="0" rules="all" border="1" style="border-collapse:collapse;">
+	<tr>
+		<td>Code</td><td>MOF.EE.A_N</td>
+	</tr><tr>
+		<td>Description</td><td>Exteranl Expenditure - Central government</td>
+	</tr><tr>
+		<td>Frequency</td><td>Annual (A)</td>
+	</tr><tr>
+		<td>Units</td><td>NIS, million</td>
+	</tr><tr>
+		<td>Price base</td><td>Current prices</td>
+	</tr><tr>
+		<td>Seasonal adjustment</td><td>Original</td>
+	</tr><tr>
+		<td>Data source</td><td>Ministry of Finance</td>
+	</tr><tr>
+		<td>Data type</td><td>SUMMED</td>
+	</tr><tr>
+		<td>Process</td><td>-</td>
+	</tr><tr>
+		<td>Documentation</td><td>The data refers to the central government, i.e., the government itself, excluding the national institutions, municipalities and nonprofit organisations. Calculated on a cash basis.</td>
+	</tr><tr>
+		<td>Main subject</td><td>External Sector</td>
+	</tr><tr>
+		<td>Sub subject 1</td><td>Balance of payments - Financial Account</td>
+	</tr><tr>
+		<td>Sub subject 2</td><td>Nonresident Investment in Israel</td>
+	</tr><tr>
+		<td>Sub subject 3</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>Sub subject 4</td><td>&nbsp;</td>
+	</tr>
+</table><table cellspacing="0" rules="all" border="1" style="border-collapse:collapse;">
+	<tr>
+		<td>31/12/2000</td><td>            13518.043381</td>
+	</tr><tr>
+		<td>31/12/2001</td><td>            15387.834046</td>
+	</tr><tr>
+		<td>31/12/2002</td><td>            17319.210880</td>
+	</tr><tr>
+		<td>31/12/2003</td><td>            13789.282667</td>
+	</tr><tr>
+		<td>31/12/2004</td><td>            14358.402258</td>
+	</tr><tr>
+		<td>31/12/2005</td><td>            18689.281778</td>
+	</tr><tr>
+		<td>31/12/2006</td><td>            18776.842373</td>
+	</tr><tr>
+		<td>31/12/2007</td><td>            18334.196504</td>
+	</tr><tr>
+		<td>31/12/2008</td><td>            16424.364140</td>
+	</tr><tr>
+		<td>31/12/2009</td><td>            15396.182000</td>
+	</tr><tr>
+		<td>31/12/2010</td><td>            16068.172000</td>
+	</tr><tr>
+		<td>31/12/2011</td><td>            13869.736000</td>
+	</tr><tr>
+		<td>31/12/2012</td><td>            15404.680000</td>
+	</tr><tr>
+		<td>31/12/2013</td><td>            16106.964000</td>
+	</tr><tr>
+		<td>31/12/2014</td><td>            17562.479000</td>
+	</tr><tr>
+		<td>31/12/2015</td><td>            17032.704000</td>
+	</tr>
+</table>

@@ -1,0 +1,179 @@
+﻿<table cellspacing="0" rules="all" border="1" style="border-collapse:collapse;">
+	<tr>
+		<td>Code</td><td>HA_D.Q_SA</td>
+	</tr><tr>
+		<td>Description</td><td>Average weekly hours per employed person - Construction (building and civil engineering projects)</td>
+	</tr><tr>
+		<td>Frequency</td><td>Quarterly (Q)</td>
+	</tr><tr>
+		<td>Units</td><td>Hours</td>
+	</tr><tr>
+		<td>Price base</td><td>-</td>
+	</tr><tr>
+		<td>Seasonal adjustment</td><td>Seasonally adjusted</td>
+	</tr><tr>
+		<td>Data source</td><td>CBS</td>
+	</tr><tr>
+		<td>Data type</td><td>AVERAGED</td>
+	</tr><tr>
+		<td>Process</td><td>-</td>
+	</tr><tr>
+		<td>Documentation</td><td>Chained according to the definitions of the monthly survey. For details, see http://www.cbs.gov.il/publications12/saka0112Q/pdf/intro_f_e.pdf.</td>
+	</tr><tr>
+		<td>Main subject</td><td>External Sector</td>
+	</tr><tr>
+		<td>Sub subject 1</td><td>Balance of payments - Financial Account</td>
+	</tr><tr>
+		<td>Sub subject 2</td><td>Nonresident Investment in Israel</td>
+	</tr><tr>
+		<td>Sub subject 3</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>Sub subject 4</td><td>&nbsp;</td>
+	</tr>
+</table><table cellspacing="0" rules="all" border="1" style="border-collapse:collapse;">
+	<tr>
+		<td>31/03/1995</td><td>               39.493274</td>
+	</tr><tr>
+		<td>30/06/1995</td><td>               39.053483</td>
+	</tr><tr>
+		<td>30/09/1995</td><td>               38.701650</td>
+	</tr><tr>
+		<td>31/12/1995</td><td>               37.470234</td>
+	</tr><tr>
+		<td>31/03/1996</td><td>               37.822067</td>
+	</tr><tr>
+		<td>30/06/1996</td><td>               38.525733</td>
+	</tr><tr>
+		<td>30/09/1996</td><td>               38.349817</td>
+	</tr><tr>
+		<td>31/12/1996</td><td>               38.261858</td>
+	</tr><tr>
+		<td>31/03/1997</td><td>               38.525733</td>
+	</tr><tr>
+		<td>30/06/1997</td><td>               37.558192</td>
+	</tr><tr>
+		<td>30/09/1997</td><td>               38.349817</td>
+	</tr><tr>
+		<td>31/12/1997</td><td>               38.701650</td>
+	</tr><tr>
+		<td>31/03/1998</td><td>               38.095200</td>
+	</tr><tr>
+		<td>30/06/1998</td><td>               37.384800</td>
+	</tr><tr>
+		<td>30/09/1998</td><td>               36.585600</td>
+	</tr><tr>
+		<td>31/12/1998</td><td>               36.674400</td>
+	</tr><tr>
+		<td>31/03/1999</td><td>               36.496800</td>
+	</tr><tr>
+		<td>30/06/1999</td><td>               37.296000</td>
+	</tr><tr>
+		<td>30/09/1999</td><td>               37.473600</td>
+	</tr><tr>
+		<td>31/12/1999</td><td>               38.450400</td>
+	</tr><tr>
+		<td>31/03/2000</td><td>               38.716800</td>
+	</tr><tr>
+		<td>30/06/2000</td><td>               38.184000</td>
+	</tr><tr>
+		<td>30/09/2000</td><td>               37.917600</td>
+	</tr><tr>
+		<td>31/12/2000</td><td>               38.361600</td>
+	</tr><tr>
+		<td>31/03/2001</td><td>               36.319200</td>
+	</tr><tr>
+		<td>30/06/2001</td><td>               37.828800</td>
+	</tr><tr>
+		<td>30/09/2001</td><td>               38.006400</td>
+	</tr><tr>
+		<td>31/12/2001</td><td>               37.740000</td>
+	</tr><tr>
+		<td>31/03/2002</td><td>               37.828800</td>
+	</tr><tr>
+		<td>30/06/2002</td><td>               37.828800</td>
+	</tr><tr>
+		<td>30/09/2002</td><td>               38.450400</td>
+	</tr><tr>
+		<td>31/12/2002</td><td>               38.894401</td>
+	</tr><tr>
+		<td>31/03/2003</td><td>               38.095200</td>
+	</tr><tr>
+		<td>30/06/2003</td><td>               37.828800</td>
+	</tr><tr>
+		<td>30/09/2003</td><td>               37.207200</td>
+	</tr><tr>
+		<td>31/12/2003</td><td>               37.029600</td>
+	</tr><tr>
+		<td>31/03/2004</td><td>               38.095200</td>
+	</tr><tr>
+		<td>30/06/2004</td><td>               36.230400</td>
+	</tr><tr>
+		<td>30/09/2004</td><td>               36.763200</td>
+	</tr><tr>
+		<td>31/12/2004</td><td>               36.319200</td>
+	</tr><tr>
+		<td>31/03/2005</td><td>               36.585600</td>
+	</tr><tr>
+		<td>30/06/2005</td><td>               37.828800</td>
+	</tr><tr>
+		<td>30/09/2005</td><td>               36.585600</td>
+	</tr><tr>
+		<td>31/12/2005</td><td>               35.520000</td>
+	</tr><tr>
+		<td>31/03/2006</td><td>               36.496800</td>
+	</tr><tr>
+		<td>30/06/2006</td><td>               36.496800</td>
+	</tr><tr>
+		<td>30/09/2006</td><td>               36.230400</td>
+	</tr><tr>
+		<td>31/12/2006</td><td>               38.184000</td>
+	</tr><tr>
+		<td>31/03/2007</td><td>               37.562400</td>
+	</tr><tr>
+		<td>30/06/2007</td><td>               36.763200</td>
+	</tr><tr>
+		<td>30/09/2007</td><td>               37.118400</td>
+	</tr><tr>
+		<td>31/12/2007</td><td>               37.562400</td>
+	</tr><tr>
+		<td>31/03/2008</td><td>               36.852000</td>
+	</tr><tr>
+		<td>30/06/2008</td><td>               37.562400</td>
+	</tr><tr>
+		<td>30/09/2008</td><td>               37.828800</td>
+	</tr><tr>
+		<td>31/12/2008</td><td>               35.786400</td>
+	</tr><tr>
+		<td>31/03/2009</td><td>               37.029600</td>
+	</tr><tr>
+		<td>30/06/2009</td><td>               36.585600</td>
+	</tr><tr>
+		<td>30/09/2009</td><td>               36.852000</td>
+	</tr><tr>
+		<td>31/12/2009</td><td>               36.763200</td>
+	</tr><tr>
+		<td>31/03/2010</td><td>               36.230400</td>
+	</tr><tr>
+		<td>30/06/2010</td><td>               36.496800</td>
+	</tr><tr>
+		<td>30/09/2010</td><td>               36.230400</td>
+	</tr><tr>
+		<td>31/12/2010</td><td>               36.674400</td>
+	</tr><tr>
+		<td>31/03/2011</td><td>               37.384800</td>
+	</tr><tr>
+		<td>30/06/2011</td><td>               36.763200</td>
+	</tr><tr>
+		<td>30/09/2011</td><td>               36.763200</td>
+	</tr><tr>
+		<td>31/12/2011</td><td>               36.230400</td>
+	</tr><tr>
+		<td>31/03/2012</td><td>               37.500000</td>
+	</tr><tr>
+		<td>30/06/2012</td><td>               38.500000</td>
+	</tr><tr>
+		<td>30/09/2012</td><td>               37.900000</td>
+	</tr><tr>
+		<td>31/12/2012</td><td>               37.300000</td>
+	</tr>
+</table>

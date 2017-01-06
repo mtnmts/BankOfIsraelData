@@ -1,0 +1,77 @@
+﻿<table cellspacing="0" rules="all" border="1" style="border-collapse:collapse;">
+	<tr>
+		<td>Code</td><td>MDD13.EMP_PRV.A</td>
+	</tr><tr>
+		<td>Description</td><td>Employee posts in the private sector index</td>
+	</tr><tr>
+		<td>Frequency</td><td>Annual (A)</td>
+	</tr><tr>
+		<td>Units</td><td>Index, base 2011=100</td>
+	</tr><tr>
+		<td>Price base</td><td>-</td>
+	</tr><tr>
+		<td>Seasonal adjustment</td><td>Seasonally adjusted</td>
+	</tr><tr>
+		<td>Data source</td><td>CBS</td>
+	</tr><tr>
+		<td>Data type</td><td>AVERAGED</td>
+	</tr><tr>
+		<td>Process</td><td>Bank of Israel - Research</td>
+	</tr><tr>
+		<td>Documentation</td><td>Chained to historical data</td>
+	</tr><tr>
+		<td>Main subject</td><td>External Sector</td>
+	</tr><tr>
+		<td>Sub subject 1</td><td>Balance of payments - Financial Account</td>
+	</tr><tr>
+		<td>Sub subject 2</td><td>Nonresident Investment in Israel</td>
+	</tr><tr>
+		<td>Sub subject 3</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>Sub subject 4</td><td>&nbsp;</td>
+	</tr>
+</table><table cellspacing="0" rules="all" border="1" style="border-collapse:collapse;">
+	<tr>
+		<td>31/12/1995</td><td>               63.250882</td>
+	</tr><tr>
+		<td>31/12/1996</td><td>               66.145092</td>
+	</tr><tr>
+		<td>31/12/1997</td><td>               67.326766</td>
+	</tr><tr>
+		<td>31/12/1998</td><td>               67.850745</td>
+	</tr><tr>
+		<td>31/12/1999</td><td>               69.530574</td>
+	</tr><tr>
+		<td>31/12/2000</td><td>               72.528291</td>
+	</tr><tr>
+		<td>31/12/2001</td><td>               73.324461</td>
+	</tr><tr>
+		<td>31/12/2002</td><td>               72.682184</td>
+	</tr><tr>
+		<td>31/12/2003</td><td>               73.026362</td>
+	</tr><tr>
+		<td>31/12/2004</td><td>               75.536851</td>
+	</tr><tr>
+		<td>31/12/2005</td><td>               78.901359</td>
+	</tr><tr>
+		<td>31/12/2006</td><td>               82.797562</td>
+	</tr><tr>
+		<td>31/12/2007</td><td>               87.085067</td>
+	</tr><tr>
+		<td>31/12/2008</td><td>               90.062075</td>
+	</tr><tr>
+		<td>31/12/2009</td><td>               91.230427</td>
+	</tr><tr>
+		<td>31/12/2010</td><td>               96.059466</td>
+	</tr><tr>
+		<td>31/12/2011</td><td>              100.042098</td>
+	</tr><tr>
+		<td>31/12/2012</td><td>              102.195368</td>
+	</tr><tr>
+		<td>31/12/2013</td><td>              104.696554</td>
+	</tr><tr>
+		<td>31/12/2014</td><td>              106.815030</td>
+	</tr><tr>
+		<td>31/12/2015</td><td>              109.045703</td>
+	</tr>
+</table>

@@ -1,0 +1,67 @@
+﻿<table cellspacing="0" rules="all" border="1" style="border-collapse:collapse;">
+	<tr>
+		<td>Code</td><td>MOF.DEFE.A_N</td>
+	</tr><tr>
+		<td>Description</td><td>Exteranl deficit - Central government</td>
+	</tr><tr>
+		<td>Frequency</td><td>Annual (A)</td>
+	</tr><tr>
+		<td>Units</td><td>NIS, million</td>
+	</tr><tr>
+		<td>Price base</td><td>Current prices</td>
+	</tr><tr>
+		<td>Seasonal adjustment</td><td>Original</td>
+	</tr><tr>
+		<td>Data source</td><td>Ministry of Finance</td>
+	</tr><tr>
+		<td>Data type</td><td>SUMMED</td>
+	</tr><tr>
+		<td>Process</td><td>-</td>
+	</tr><tr>
+		<td>Documentation</td><td>The data refers to the central government, i.e., the government itself, excluding the national institutions, municipalities and nonprofit organisations. Calculated on a cash basis.</td>
+	</tr><tr>
+		<td>Main subject</td><td>External Sector</td>
+	</tr><tr>
+		<td>Sub subject 1</td><td>Balance of payments - Financial Account</td>
+	</tr><tr>
+		<td>Sub subject 2</td><td>Nonresident Investment in Israel</td>
+	</tr><tr>
+		<td>Sub subject 3</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>Sub subject 4</td><td>&nbsp;</td>
+	</tr>
+</table><table cellspacing="0" rules="all" border="1" style="border-collapse:collapse;">
+	<tr>
+		<td>31/12/2000</td><td>              -33.412448</td>
+	</tr><tr>
+		<td>31/12/2001</td><td>            -3918.173682</td>
+	</tr><tr>
+		<td>31/12/2002</td><td>              178.295509</td>
+	</tr><tr>
+		<td>31/12/2003</td><td>            -1008.651538</td>
+	</tr><tr>
+		<td>31/12/2004</td><td>            -2854.107622</td>
+	</tr><tr>
+		<td>31/12/2005</td><td>            -4645.883918</td>
+	</tr><tr>
+		<td>31/12/2006</td><td>            -3847.100678</td>
+	</tr><tr>
+		<td>31/12/2007</td><td>            -6283.852043</td>
+	</tr><tr>
+		<td>31/12/2008</td><td>            -5382.792057</td>
+	</tr><tr>
+		<td>31/12/2009</td><td>            -5273.280000</td>
+	</tr><tr>
+		<td>31/12/2010</td><td>            -3901.260000</td>
+	</tr><tr>
+		<td>31/12/2011</td><td>            -4279.766000</td>
+	</tr><tr>
+		<td>31/12/2012</td><td>            -5496.697000</td>
+	</tr><tr>
+		<td>31/12/2013</td><td>            -5113.811000</td>
+	</tr><tr>
+		<td>31/12/2014</td><td>            -6315.581000</td>
+	</tr><tr>
+		<td>31/12/2015</td><td>            -4455.500000</td>
+	</tr>
+</table>

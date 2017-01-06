@@ -1,0 +1,57 @@
+﻿<table cellspacing="0" rules="all" border="1" style="border-collapse:collapse;">
+	<tr>
+		<td>Code</td><td>IRW_M_@FRN.A</td>
+	</tr><tr>
+		<td>Description</td><td>Index - Average monthly real wages per employee post - Israelis -professional, scientific and technical activities</td>
+	</tr><tr>
+		<td>Frequency</td><td>Annual (A)</td>
+	</tr><tr>
+		<td>Units</td><td>Index, base 2011=100</td>
+	</tr><tr>
+		<td>Price base</td><td>Fixed 2011 prices</td>
+	</tr><tr>
+		<td>Seasonal adjustment</td><td>Original</td>
+	</tr><tr>
+		<td>Data source</td><td>CBS</td>
+	</tr><tr>
+		<td>Data type</td><td>AVERAGED</td>
+	</tr><tr>
+		<td>Process</td><td>Bank of Israel - Statistical Data Management</td>
+	</tr><tr>
+		<td>Documentation</td><td>Classification of economic activities 2011</td>
+	</tr><tr>
+		<td>Main subject</td><td>External Sector</td>
+	</tr><tr>
+		<td>Sub subject 1</td><td>Balance of payments - Financial Account</td>
+	</tr><tr>
+		<td>Sub subject 2</td><td>Nonresident Investment in Israel</td>
+	</tr><tr>
+		<td>Sub subject 3</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>Sub subject 4</td><td>&nbsp;</td>
+	</tr>
+</table><table cellspacing="0" rules="all" border="1" style="border-collapse:collapse;">
+	<tr>
+		<td>31/12/2005</td><td>              100.640961</td>
+	</tr><tr>
+		<td>31/12/2006</td><td>              102.972301</td>
+	</tr><tr>
+		<td>31/12/2007</td><td>              107.844198</td>
+	</tr><tr>
+		<td>31/12/2008</td><td>              105.979958</td>
+	</tr><tr>
+		<td>31/12/2009</td><td>              100.342561</td>
+	</tr><tr>
+		<td>31/12/2010</td><td>              101.002104</td>
+	</tr><tr>
+		<td>31/12/2011</td><td>              100.000000</td>
+	</tr><tr>
+		<td>31/12/2012</td><td>              101.744702</td>
+	</tr><tr>
+		<td>31/12/2013</td><td>              105.323000</td>
+	</tr><tr>
+		<td>31/12/2014</td><td>              104.653434</td>
+	</tr><tr>
+		<td>31/12/2015</td><td>              108.133640</td>
+	</tr>
+</table>

@@ -1,0 +1,185 @@
+﻿<table cellspacing="0" rules="all" border="1" style="border-collapse:collapse;">
+	<tr>
+		<td>Code</td><td>PU.S25_5_V4.Q</td>
+	</tr><tr>
+		<td>Description</td><td>Total orders in the following quarter - Hotels - Moderate decrease</td>
+	</tr><tr>
+		<td>Frequency</td><td>Quarterly (Q)</td>
+	</tr><tr>
+		<td>Units</td><td>Percent</td>
+	</tr><tr>
+		<td>Price base</td><td>-</td>
+	</tr><tr>
+		<td>Seasonal adjustment</td><td>Original</td>
+	</tr><tr>
+		<td>Data source</td><td>Bank of Israel - Research</td>
+	</tr><tr>
+		<td>Data type</td><td>SUMMED</td>
+	</tr><tr>
+		<td>Process</td><td>-</td>
+	</tr><tr>
+		<td>Documentation</td><td>"</td>
+	</tr><tr>
+		<td>Main subject</td><td>External Sector</td>
+	</tr><tr>
+		<td>Sub subject 1</td><td>Balance of payments - Financial Account</td>
+	</tr><tr>
+		<td>Sub subject 2</td><td>Nonresident Investment in Israel</td>
+	</tr><tr>
+		<td>Sub subject 3</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>Sub subject 4</td><td>&nbsp;</td>
+	</tr>
+</table><table cellspacing="0" rules="all" border="1" style="border-collapse:collapse;">
+	<tr>
+		<td>31/12/1990</td><td>               12.903226</td>
+	</tr><tr>
+		<td>31/03/1991</td><td>                6.818182</td>
+	</tr><tr>
+		<td>30/06/1991</td><td>               29.333334</td>
+	</tr><tr>
+		<td>30/09/1991</td><td>               21.621622</td>
+	</tr><tr>
+		<td>31/12/1991</td><td>                9.756098</td>
+	</tr><tr>
+		<td>31/03/1992</td><td>                2.531646</td>
+	</tr><tr>
+		<td>30/06/1992</td><td>                1.219512</td>
+	</tr><tr>
+		<td>30/09/1992</td><td>                8.750000</td>
+	</tr><tr>
+		<td>31/12/1992</td><td>                7.692308</td>
+	</tr><tr>
+		<td>31/03/1993</td><td>                6.410256</td>
+	</tr><tr>
+		<td>30/06/1993</td><td>                8.450705</td>
+	</tr><tr>
+		<td>30/09/1993</td><td>               18.421053</td>
+	</tr><tr>
+		<td>31/12/1993</td><td>               15.789474</td>
+	</tr><tr>
+		<td>31/03/1994</td><td>               28.000000</td>
+	</tr><tr>
+		<td>30/06/1994</td><td>               34.210526</td>
+	</tr><tr>
+		<td>30/09/1994</td><td>               37.037037</td>
+	</tr><tr>
+		<td>31/12/1994</td><td>               28.767124</td>
+	</tr><tr>
+		<td>31/03/1995</td><td>               27.397261</td>
+	</tr><tr>
+		<td>30/06/1995</td><td>               14.492754</td>
+	</tr><tr>
+		<td>30/09/1995</td><td>               12.195122</td>
+	</tr><tr>
+		<td>31/12/1995</td><td>                9.333333</td>
+	</tr><tr>
+		<td>31/03/1996</td><td>               13.888889</td>
+	</tr><tr>
+		<td>30/06/1996</td><td>               34.782608</td>
+	</tr><tr>
+		<td>30/09/1996</td><td>               41.428570</td>
+	</tr><tr>
+		<td>31/12/1996</td><td>               38.666668</td>
+	</tr><tr>
+		<td>31/03/1997</td><td>               31.578947</td>
+	</tr><tr>
+		<td>30/06/1997</td><td>               36.842106</td>
+	</tr><tr>
+		<td>30/09/1997</td><td>               41.666668</td>
+	</tr><tr>
+		<td>31/12/1997</td><td>               31.578947</td>
+	</tr><tr>
+		<td>31/03/1998</td><td>               36.231884</td>
+	</tr><tr>
+		<td>30/06/1998</td><td>               44.776119</td>
+	</tr><tr>
+		<td>30/09/1998</td><td>               49.275364</td>
+	</tr><tr>
+		<td>31/12/1998</td><td>               39.344261</td>
+	</tr><tr>
+		<td>31/03/1999</td><td>               29.850746</td>
+	</tr><tr>
+		<td>30/06/1999</td><td>               20.000000</td>
+	</tr><tr>
+		<td>30/09/1999</td><td>               21.538462</td>
+	</tr><tr>
+		<td>31/12/1999</td><td>               11.290322</td>
+	</tr><tr>
+		<td>31/03/2000</td><td>               12.727273</td>
+	</tr><tr>
+		<td>30/06/2000</td><td>                6.666667</td>
+	</tr><tr>
+		<td>30/09/2000</td><td>               16.326530</td>
+	</tr><tr>
+		<td>31/12/2000</td><td>                9.259259</td>
+	</tr><tr>
+		<td>31/03/2001</td><td>               11.666667</td>
+	</tr><tr>
+		<td>30/06/2001</td><td>                8.928572</td>
+	</tr><tr>
+		<td>30/09/2001</td><td>               15.217391</td>
+	</tr><tr>
+		<td>31/12/2001</td><td>                6.250000</td>
+	</tr><tr>
+		<td>31/03/2002</td><td>               22.388060</td>
+	</tr><tr>
+		<td>30/06/2002</td><td>               23.728813</td>
+	</tr><tr>
+		<td>30/09/2002</td><td>               31.746031</td>
+	</tr><tr>
+		<td>31/12/2002</td><td>               27.868853</td>
+	</tr><tr>
+		<td>31/03/2003</td><td>               26.562500</td>
+	</tr><tr>
+		<td>30/06/2003</td><td>               32.786884</td>
+	</tr><tr>
+		<td>30/09/2003</td><td>               11.475410</td>
+	</tr><tr>
+		<td>31/12/2003</td><td>               15.789474</td>
+	</tr><tr>
+		<td>31/03/2004</td><td>               16.071428</td>
+	</tr><tr>
+		<td>30/06/2004</td><td>                6.000000</td>
+	</tr><tr>
+		<td>30/09/2004</td><td>                7.017544</td>
+	</tr><tr>
+		<td>31/12/2004</td><td>               12.280702</td>
+	</tr><tr>
+		<td>31/03/2005</td><td>               11.111111</td>
+	</tr><tr>
+		<td>30/06/2005</td><td>                7.407407</td>
+	</tr><tr>
+		<td>30/09/2005</td><td>                2.040816</td>
+	</tr><tr>
+		<td>31/12/2005</td><td>               13.043478</td>
+	</tr><tr>
+		<td>31/03/2006</td><td>                7.843137</td>
+	</tr><tr>
+		<td>30/06/2006</td><td>                3.636364</td>
+	</tr><tr>
+		<td>30/09/2006</td><td>                8.695652</td>
+	</tr><tr>
+		<td>31/12/2006</td><td>               36.734695</td>
+	</tr><tr>
+		<td>31/03/2007</td><td>               28.571428</td>
+	</tr><tr>
+		<td>30/06/2007</td><td>               18.750000</td>
+	</tr><tr>
+		<td>30/09/2007</td><td>               26.190475</td>
+	</tr><tr>
+		<td>31/12/2007</td><td>                5.128205</td>
+	</tr><tr>
+		<td>31/03/2008</td><td>               12.820513</td>
+	</tr><tr>
+		<td>30/06/2008</td><td>                2.702703</td>
+	</tr><tr>
+		<td>30/09/2008</td><td>               10.526316</td>
+	</tr><tr>
+		<td>31/12/2008</td><td>               27.659575</td>
+	</tr><tr>
+		<td>31/03/2009</td><td>               20.000000</td>
+	</tr><tr>
+		<td>30/06/2009</td><td>               39.024391</td>
+	</tr>
+</table>

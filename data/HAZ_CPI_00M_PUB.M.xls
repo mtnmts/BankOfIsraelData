@@ -1,0 +1,409 @@
+﻿<table cellspacing="0" rules="all" border="1" style="border-collapse:collapse;">
+	<tr>
+		<td>Code</td><td>HAZ_CPI_00M_PUB.M</td>
+	</tr><tr>
+		<td>Description</td><td>Average of forecasters projections for the current CPI reading</td>
+	</tr><tr>
+		<td>Frequency</td><td>Monthly (M)</td>
+	</tr><tr>
+		<td>Units</td><td>Percent</td>
+	</tr><tr>
+		<td>Price base</td><td>-</td>
+	</tr><tr>
+		<td>Seasonal adjustment</td><td>Original</td>
+	</tr><tr>
+		<td>Data source</td><td>Bank of Israel - Information and Statistics</td>
+	</tr><tr>
+		<td>Data type</td><td>AVERAGED</td>
+	</tr><tr>
+		<td>Process</td><td>Bank of Israel - Statistical Data Management</td>
+	</tr><tr>
+		<td>Documentation</td><td>The figure for a particular month is calculated as the average of the forecasters projections for inflation (change in the Consumer Price Index) in that month, issued during the 30 days prior to the date of publication for the CPI for that month.  In other words, the projections issued between the 16th of the particular month and the 15th of the following month. For instance, for January 31, 2016 (meaning the CPI for January 2016), the figure reflects the average of projections issued between January 16, 2016 and February 15, 2016. The projections are the simple average of inflation projections by commercial banks and economic consultants that provide the Bank of Israel with their projections in an orderly fashion. The series is published with a lag of 3 months.</td>
+	</tr><tr>
+		<td>Main subject</td><td>External Sector</td>
+	</tr><tr>
+		<td>Sub subject 1</td><td>Balance of payments - Financial Account</td>
+	</tr><tr>
+		<td>Sub subject 2</td><td>Nonresident Investment in Israel</td>
+	</tr><tr>
+		<td>Sub subject 3</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>Sub subject 4</td><td>&nbsp;</td>
+	</tr>
+</table><table cellspacing="0" rules="all" border="1" style="border-collapse:collapse;">
+	<tr>
+		<td>31/03/2001</td><td>                0.150000</td>
+	</tr><tr>
+		<td>30/04/2001</td><td>                0.700000</td>
+	</tr><tr>
+		<td>31/05/2001</td><td>                0.460000</td>
+	</tr><tr>
+		<td>30/06/2001</td><td>                0.050000</td>
+	</tr><tr>
+		<td>31/07/2001</td><td>                0.140000</td>
+	</tr><tr>
+		<td>31/08/2001</td><td>                0.310000</td>
+	</tr><tr>
+		<td>30/09/2001</td><td>                0.460000</td>
+	</tr><tr>
+		<td>31/10/2001</td><td>                0.470000</td>
+	</tr><tr>
+		<td>30/11/2001</td><td>               -0.220000</td>
+	</tr><tr>
+		<td>31/12/2001</td><td>               -0.260000</td>
+	</tr><tr>
+		<td>31/01/2002</td><td>                0.670000</td>
+	</tr><tr>
+		<td>28/02/2002</td><td>                0.960000</td>
+	</tr><tr>
+		<td>31/03/2002</td><td>                0.650000</td>
+	</tr><tr>
+		<td>30/04/2002</td><td>                1.070000</td>
+	</tr><tr>
+		<td>31/05/2002</td><td>                0.830000</td>
+	</tr><tr>
+		<td>30/06/2002</td><td>                0.710000</td>
+	</tr><tr>
+		<td>31/07/2002</td><td>                0.400000</td>
+	</tr><tr>
+		<td>31/08/2002</td><td>               -0.260000</td>
+	</tr><tr>
+		<td>30/09/2002</td><td>               -0.050000</td>
+	</tr><tr>
+		<td>31/10/2002</td><td>                0.560000</td>
+	</tr><tr>
+		<td>30/11/2002</td><td>               -0.070000</td>
+	</tr><tr>
+		<td>31/12/2002</td><td>               -0.340000</td>
+	</tr><tr>
+		<td>31/01/2003</td><td>                0.410000</td>
+	</tr><tr>
+		<td>28/02/2003</td><td>                0.620000</td>
+	</tr><tr>
+		<td>31/03/2003</td><td>                0.330000</td>
+	</tr><tr>
+		<td>30/04/2003</td><td>               -0.050000</td>
+	</tr><tr>
+		<td>31/05/2003</td><td>               -0.520000</td>
+	</tr><tr>
+		<td>30/06/2003</td><td>               -0.460000</td>
+	</tr><tr>
+		<td>31/07/2003</td><td>               -0.400000</td>
+	</tr><tr>
+		<td>31/08/2003</td><td>                0.110000</td>
+	</tr><tr>
+		<td>30/09/2003</td><td>                0.450000</td>
+	</tr><tr>
+		<td>31/10/2003</td><td>                0.140000</td>
+	</tr><tr>
+		<td>30/11/2003</td><td>                0.100000</td>
+	</tr><tr>
+		<td>31/12/2003</td><td>               -0.140000</td>
+	</tr><tr>
+		<td>31/01/2004</td><td>               -0.210000</td>
+	</tr><tr>
+		<td>29/02/2004</td><td>                0.100000</td>
+	</tr><tr>
+		<td>31/03/2004</td><td>               -0.130000</td>
+	</tr><tr>
+		<td>30/04/2004</td><td>                0.650000</td>
+	</tr><tr>
+		<td>31/05/2004</td><td>                0.550000</td>
+	</tr><tr>
+		<td>30/06/2004</td><td>                0.010000</td>
+	</tr><tr>
+		<td>31/07/2004</td><td>               -0.250000</td>
+	</tr><tr>
+		<td>31/08/2004</td><td>                0.170000</td>
+	</tr><tr>
+		<td>30/09/2004</td><td>                0.090000</td>
+	</tr><tr>
+		<td>31/10/2004</td><td>                0.260000</td>
+	</tr><tr>
+		<td>30/11/2004</td><td>               -0.070000</td>
+	</tr><tr>
+		<td>31/12/2004</td><td>               -0.070000</td>
+	</tr><tr>
+		<td>31/01/2005</td><td>               -0.250000</td>
+	</tr><tr>
+		<td>28/02/2005</td><td>                0.150000</td>
+	</tr><tr>
+		<td>31/03/2005</td><td>               -0.100000</td>
+	</tr><tr>
+		<td>30/04/2005</td><td>                0.770000</td>
+	</tr><tr>
+		<td>31/05/2005</td><td>                0.350000</td>
+	</tr><tr>
+		<td>30/06/2005</td><td>                0.120000</td>
+	</tr><tr>
+		<td>31/07/2005</td><td>                0.710000</td>
+	</tr><tr>
+		<td>31/08/2005</td><td>                0.260000</td>
+	</tr><tr>
+		<td>30/09/2005</td><td>                0.150000</td>
+	</tr><tr>
+		<td>31/10/2005</td><td>                0.700000</td>
+	</tr><tr>
+		<td>30/11/2005</td><td>                0.120000</td>
+	</tr><tr>
+		<td>31/12/2005</td><td>               -0.100000</td>
+	</tr><tr>
+		<td>31/01/2006</td><td>               -0.410000</td>
+	</tr><tr>
+		<td>28/02/2006</td><td>                0.220000</td>
+	</tr><tr>
+		<td>31/03/2006</td><td>                0.140000</td>
+	</tr><tr>
+		<td>30/04/2006</td><td>                0.820000</td>
+	</tr><tr>
+		<td>31/05/2006</td><td>               -0.040000</td>
+	</tr><tr>
+		<td>30/06/2006</td><td>               -0.070000</td>
+	</tr><tr>
+		<td>31/07/2006</td><td>               -0.150000</td>
+	</tr><tr>
+		<td>31/08/2006</td><td>                0.080000</td>
+	</tr><tr>
+		<td>30/09/2006</td><td>               -0.350000</td>
+	</tr><tr>
+		<td>31/10/2006</td><td>               -0.340000</td>
+	</tr><tr>
+		<td>30/11/2006</td><td>               -0.100000</td>
+	</tr><tr>
+		<td>31/12/2006</td><td>               -0.190000</td>
+	</tr><tr>
+		<td>31/01/2007</td><td>               -0.100000</td>
+	</tr><tr>
+		<td>28/02/2007</td><td>               -0.310000</td>
+	</tr><tr>
+		<td>31/03/2007</td><td>                0.180000</td>
+	</tr><tr>
+		<td>30/04/2007</td><td>                0.570000</td>
+	</tr><tr>
+		<td>31/05/2007</td><td>               -0.180000</td>
+	</tr><tr>
+		<td>30/06/2007</td><td>                0.390000</td>
+	</tr><tr>
+		<td>31/07/2007</td><td>                0.780000</td>
+	</tr><tr>
+		<td>31/08/2007</td><td>                0.670000</td>
+	</tr><tr>
+		<td>30/09/2007</td><td>               -0.400000</td>
+	</tr><tr>
+		<td>31/10/2007</td><td>               -0.090000</td>
+	</tr><tr>
+		<td>30/11/2007</td><td>               -0.110000</td>
+	</tr><tr>
+		<td>31/12/2007</td><td>                0.310000</td>
+	</tr><tr>
+		<td>31/01/2008</td><td>               -0.020000</td>
+	</tr><tr>
+		<td>29/02/2008</td><td>               -0.320000</td>
+	</tr><tr>
+		<td>31/03/2008</td><td>               -0.150000</td>
+	</tr><tr>
+		<td>30/04/2008</td><td>                0.830000</td>
+	</tr><tr>
+		<td>31/05/2008</td><td>                0.720000</td>
+	</tr><tr>
+		<td>30/06/2008</td><td>                0.470000</td>
+	</tr><tr>
+		<td>31/07/2008</td><td>                0.610000</td>
+	</tr><tr>
+		<td>31/08/2008</td><td>                0.550000</td>
+	</tr><tr>
+		<td>30/09/2008</td><td>                0.360000</td>
+	</tr><tr>
+		<td>31/10/2008</td><td>                0.090000</td>
+	</tr><tr>
+		<td>30/11/2008</td><td>               -0.560000</td>
+	</tr><tr>
+		<td>31/12/2008</td><td>               -0.290000</td>
+	</tr><tr>
+		<td>31/01/2009</td><td>               -0.530000</td>
+	</tr><tr>
+		<td>28/02/2009</td><td>               -0.060000</td>
+	</tr><tr>
+		<td>31/03/2009</td><td>                0.200000</td>
+	</tr><tr>
+		<td>30/04/2009</td><td>                0.970000</td>
+	</tr><tr>
+		<td>31/05/2009</td><td>                0.300000</td>
+	</tr><tr>
+		<td>30/06/2009</td><td>                0.340000</td>
+	</tr><tr>
+		<td>31/07/2009</td><td>                0.810000</td>
+	</tr><tr>
+		<td>31/08/2009</td><td>                0.540000</td>
+	</tr><tr>
+		<td>30/09/2009</td><td>               -0.040000</td>
+	</tr><tr>
+		<td>31/10/2009</td><td>                0.190000</td>
+	</tr><tr>
+		<td>30/11/2009</td><td>                0.250000</td>
+	</tr><tr>
+		<td>31/12/2009</td><td>                0.270000</td>
+	</tr><tr>
+		<td>31/01/2010</td><td>               -0.370000</td>
+	</tr><tr>
+		<td>28/02/2010</td><td>               -0.390000</td>
+	</tr><tr>
+		<td>31/03/2010</td><td>                0.090000</td>
+	</tr><tr>
+		<td>30/04/2010</td><td>                0.660000</td>
+	</tr><tr>
+		<td>31/05/2010</td><td>                0.370000</td>
+	</tr><tr>
+		<td>30/06/2010</td><td>                0.190000</td>
+	</tr><tr>
+		<td>31/07/2010</td><td>                0.790000</td>
+	</tr><tr>
+		<td>31/08/2010</td><td>                0.340000</td>
+	</tr><tr>
+		<td>30/09/2010</td><td>                0.140000</td>
+	</tr><tr>
+		<td>31/10/2010</td><td>                0.260000</td>
+	</tr><tr>
+		<td>30/11/2010</td><td>                0.110000</td>
+	</tr><tr>
+		<td>31/12/2010</td><td>                0.190000</td>
+	</tr><tr>
+		<td>31/01/2011</td><td>               -0.030000</td>
+	</tr><tr>
+		<td>28/02/2011</td><td>                0.080000</td>
+	</tr><tr>
+		<td>31/03/2011</td><td>                0.250000</td>
+	</tr><tr>
+		<td>30/04/2011</td><td>                0.830000</td>
+	</tr><tr>
+		<td>31/05/2011</td><td>                0.540000</td>
+	</tr><tr>
+		<td>30/06/2011</td><td>                0.410000</td>
+	</tr><tr>
+		<td>31/07/2011</td><td>                0.260000</td>
+	</tr><tr>
+		<td>31/08/2011</td><td>                0.370000</td>
+	</tr><tr>
+		<td>30/09/2011</td><td>                0.010000</td>
+	</tr><tr>
+		<td>31/10/2011</td><td>                0.150000</td>
+	</tr><tr>
+		<td>30/11/2011</td><td>                0.170000</td>
+	</tr><tr>
+		<td>31/12/2011</td><td>                0.110000</td>
+	</tr><tr>
+		<td>31/01/2012</td><td>               -0.170000</td>
+	</tr><tr>
+		<td>29/02/2012</td><td>                0.100000</td>
+	</tr><tr>
+		<td>31/03/2012</td><td>                0.250000</td>
+	</tr><tr>
+		<td>30/04/2012</td><td>                0.900000</td>
+	</tr><tr>
+		<td>31/05/2012</td><td>                0.340000</td>
+	</tr><tr>
+		<td>30/06/2012</td><td>                0.050000</td>
+	</tr><tr>
+		<td>31/07/2012</td><td>                0.040000</td>
+	</tr><tr>
+		<td>31/08/2012</td><td>                0.640000</td>
+	</tr><tr>
+		<td>30/09/2012</td><td>                0.480000</td>
+	</tr><tr>
+		<td>31/10/2012</td><td>                0.170000</td>
+	</tr><tr>
+		<td>30/11/2012</td><td>               -0.090000</td>
+	</tr><tr>
+		<td>31/12/2012</td><td>                0.040000</td>
+	</tr><tr>
+		<td>31/01/2013</td><td>               -0.020000</td>
+	</tr><tr>
+		<td>28/02/2013</td><td>               -0.010000</td>
+	</tr><tr>
+		<td>31/03/2013</td><td>                0.210000</td>
+	</tr><tr>
+		<td>30/04/2013</td><td>                0.410000</td>
+	</tr><tr>
+		<td>31/05/2013</td><td>                0.250000</td>
+	</tr><tr>
+		<td>30/06/2013</td><td>                0.700000</td>
+	</tr><tr>
+		<td>31/07/2013</td><td>                0.250000</td>
+	</tr><tr>
+		<td>31/08/2013</td><td>                0.380000</td>
+	</tr><tr>
+		<td>30/09/2013</td><td>                0.150000</td>
+	</tr><tr>
+		<td>31/10/2013</td><td>               -0.070000</td>
+	</tr><tr>
+		<td>30/11/2013</td><td>               -0.210000</td>
+	</tr><tr>
+		<td>31/12/2013</td><td>                0.190000</td>
+	</tr><tr>
+		<td>31/01/2014</td><td>               -0.250000</td>
+	</tr><tr>
+		<td>28/02/2014</td><td>               -0.220000</td>
+	</tr><tr>
+		<td>31/03/2014</td><td>                0.200000</td>
+	</tr><tr>
+		<td>30/04/2014</td><td>                0.610000</td>
+	</tr><tr>
+		<td>31/05/2014</td><td>                0.220000</td>
+	</tr><tr>
+		<td>30/06/2014</td><td>                0.190000</td>
+	</tr><tr>
+		<td>31/07/2014</td><td>                0.180000</td>
+	</tr><tr>
+		<td>31/08/2014</td><td>                0.150000</td>
+	</tr><tr>
+		<td>30/09/2014</td><td>               -0.120000</td>
+	</tr><tr>
+		<td>31/10/2014</td><td>                0.180000</td>
+	</tr><tr>
+		<td>30/11/2014</td><td>               -0.250000</td>
+	</tr><tr>
+		<td>31/12/2014</td><td>                0.090000</td>
+	</tr><tr>
+		<td>31/01/2015</td><td>               -0.650000</td>
+	</tr><tr>
+		<td>28/02/2015</td><td>               -0.560000</td>
+	</tr><tr>
+		<td>31/03/2015</td><td>                0.370000</td>
+	</tr><tr>
+		<td>30/04/2015</td><td>                0.480000</td>
+	</tr><tr>
+		<td>31/05/2015</td><td>                0.210000</td>
+	</tr><tr>
+		<td>30/06/2015</td><td>                0.230000</td>
+	</tr><tr>
+		<td>31/07/2015</td><td>                0.170000</td>
+	</tr><tr>
+		<td>31/08/2015</td><td>               -0.010000</td>
+	</tr><tr>
+		<td>30/09/2015</td><td>               -0.490000</td>
+	</tr><tr>
+		<td>31/10/2015</td><td>               -0.080000</td>
+	</tr><tr>
+		<td>30/11/2015</td><td>               -0.190000</td>
+	</tr><tr>
+		<td>31/12/2015</td><td>               -0.050000</td>
+	</tr><tr>
+		<td>31/01/2016</td><td>               -0.620000</td>
+	</tr><tr>
+		<td>29/02/2016</td><td>               -0.390000</td>
+	</tr><tr>
+		<td>31/03/2016</td><td>               -0.100000</td>
+	</tr><tr>
+		<td>30/04/2016</td><td>                0.550000</td>
+	</tr><tr>
+		<td>31/05/2016</td><td>                0.160000</td>
+	</tr><tr>
+		<td>30/06/2016</td><td>                0.310000</td>
+	</tr><tr>
+		<td>31/07/2016</td><td>                0.180000</td>
+	</tr><tr>
+		<td>31/08/2016</td><td>                0.010000</td>
+	</tr><tr>
+		<td>30/09/2016</td><td>               -0.100000</td>
+	</tr>
+</table>

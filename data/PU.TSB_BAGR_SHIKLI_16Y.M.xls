@@ -1,0 +1,59 @@
+﻿<table cellspacing="0" rules="all" border="1" style="border-collapse:collapse;">
+	<tr>
+		<td>Code</td><td>PU.TSB_BAGR_SHIKLI_16Y.M</td>
+	</tr><tr>
+		<td>Description</td><td>Gross yield to maturity - Non Indexed govt. bonds, fixed interest - 16 years</td>
+	</tr><tr>
+		<td>Frequency</td><td>Monthly (M)</td>
+	</tr><tr>
+		<td>Units</td><td>Percent</td>
+	</tr><tr>
+		<td>Price base</td><td>-</td>
+	</tr><tr>
+		<td>Seasonal adjustment</td><td>Original</td>
+	</tr><tr>
+		<td>Data source</td><td>Bank of Israel - Capital market</td>
+	</tr><tr>
+		<td>Data type</td><td>AVERAGED</td>
+	</tr><tr>
+		<td>Process</td><td>-</td>
+	</tr><tr>
+		<td>Documentation</td><td>Yield to maturity on fixed rate unindexed government bond</td>
+	</tr><tr>
+		<td>Main subject</td><td>External Sector</td>
+	</tr><tr>
+		<td>Sub subject 1</td><td>Balance of payments - Financial Account</td>
+	</tr><tr>
+		<td>Sub subject 2</td><td>Nonresident Investment in Israel</td>
+	</tr><tr>
+		<td>Sub subject 3</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>Sub subject 4</td><td>&nbsp;</td>
+	</tr>
+</table><table cellspacing="0" rules="all" border="1" style="border-collapse:collapse;">
+	<tr>
+		<td>31/05/2010</td><td>                5.463500</td>
+	</tr><tr>
+		<td>30/06/2010</td><td>                5.316818</td>
+	</tr><tr>
+		<td>31/07/2010</td><td>                5.222000</td>
+	</tr><tr>
+		<td>31/08/2010</td><td>                4.980000</td>
+	</tr><tr>
+		<td>30/09/2010</td><td>                4.890625</td>
+	</tr><tr>
+		<td>31/10/2010</td><td>                4.838571</td>
+	</tr><tr>
+		<td>30/11/2010</td><td>                4.975000</td>
+	</tr><tr>
+		<td>31/12/2010</td><td>                5.190909</td>
+	</tr><tr>
+		<td>31/01/2011</td><td>                5.260000</td>
+	</tr><tr>
+		<td>28/02/2011</td><td>                5.504500</td>
+	</tr><tr>
+		<td>31/03/2011</td><td>                5.644545</td>
+	</tr><tr>
+		<td>30/04/2011</td><td>                5.624375</td>
+	</tr>
+</table>

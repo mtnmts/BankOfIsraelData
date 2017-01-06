@@ -1,0 +1,117 @@
+﻿<table cellspacing="0" rules="all" border="1" style="border-collapse:collapse;">
+	<tr>
+		<td>Code</td><td>BI.PCT.G_DEF.A_PR</td>
+	</tr><tr>
+		<td>Description</td><td>Defence General Government Consumption - Derived Price - Percent change</td>
+	</tr><tr>
+		<td>Frequency</td><td>Annual (A)</td>
+	</tr><tr>
+		<td>Units</td><td>Percent</td>
+	</tr><tr>
+		<td>Price base</td><td>-</td>
+	</tr><tr>
+		<td>Seasonal adjustment</td><td>Original</td>
+	</tr><tr>
+		<td>Data source</td><td>CBS</td>
+	</tr><tr>
+		<td>Data type</td><td>SUMMED</td>
+	</tr><tr>
+		<td>Process</td><td>Bank of Israel - Statistical Data Management</td>
+	</tr><tr>
+		<td>Documentation</td><td>Linked between different CBS classification systems of NA by Bank of Israel</td>
+	</tr><tr>
+		<td>Main subject</td><td>External Sector</td>
+	</tr><tr>
+		<td>Sub subject 1</td><td>Balance of payments - Financial Account</td>
+	</tr><tr>
+		<td>Sub subject 2</td><td>Nonresident Investment in Israel</td>
+	</tr><tr>
+		<td>Sub subject 3</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>Sub subject 4</td><td>&nbsp;</td>
+	</tr>
+</table><table cellspacing="0" rules="all" border="1" style="border-collapse:collapse;">
+	<tr>
+		<td>31/12/1975</td><td>               41.375641</td>
+	</tr><tr>
+		<td>31/12/1976</td><td>               32.543353</td>
+	</tr><tr>
+		<td>31/12/1977</td><td>               42.950263</td>
+	</tr><tr>
+		<td>31/12/1978</td><td>               61.798576</td>
+	</tr><tr>
+		<td>31/12/1979</td><td>               79.165216</td>
+	</tr><tr>
+		<td>31/12/1980</td><td>              129.794465</td>
+	</tr><tr>
+		<td>31/12/1981</td><td>              131.797724</td>
+	</tr><tr>
+		<td>31/12/1982</td><td>              125.448412</td>
+	</tr><tr>
+		<td>31/12/1983</td><td>              146.709296</td>
+	</tr><tr>
+		<td>31/12/1984</td><td>              414.730268</td>
+	</tr><tr>
+		<td>31/12/1985</td><td>              245.482046</td>
+	</tr><tr>
+		<td>31/12/1986</td><td>               43.066539</td>
+	</tr><tr>
+		<td>31/12/1987</td><td>               16.791003</td>
+	</tr><tr>
+		<td>31/12/1988</td><td>               13.491839</td>
+	</tr><tr>
+		<td>31/12/1989</td><td>               27.940199</td>
+	</tr><tr>
+		<td>31/12/1990</td><td>               14.795740</td>
+	</tr><tr>
+		<td>31/12/1991</td><td>               20.032647</td>
+	</tr><tr>
+		<td>31/12/1992</td><td>               13.306798</td>
+	</tr><tr>
+		<td>31/12/1993</td><td>               10.094422</td>
+	</tr><tr>
+		<td>31/12/1994</td><td>               16.426321</td>
+	</tr><tr>
+		<td>31/12/1995</td><td>               13.210190</td>
+	</tr><tr>
+		<td>31/12/1996</td><td>               10.871985</td>
+	</tr><tr>
+		<td>31/12/1997</td><td>                8.418733</td>
+	</tr><tr>
+		<td>31/12/1998</td><td>                7.000528</td>
+	</tr><tr>
+		<td>31/12/1999</td><td>                6.380430</td>
+	</tr><tr>
+		<td>31/12/2000</td><td>                3.088079</td>
+	</tr><tr>
+		<td>31/12/2001</td><td>                1.276860</td>
+	</tr><tr>
+		<td>31/12/2002</td><td>                4.847077</td>
+	</tr><tr>
+		<td>31/12/2003</td><td>                1.331567</td>
+	</tr><tr>
+		<td>31/12/2004</td><td>                1.332614</td>
+	</tr><tr>
+		<td>31/12/2005</td><td>                2.057092</td>
+	</tr><tr>
+		<td>31/12/2006</td><td>                1.036057</td>
+	</tr><tr>
+		<td>31/12/2007</td><td>               -1.032886</td>
+	</tr><tr>
+		<td>31/12/2008</td><td>                0.561685</td>
+	</tr><tr>
+		<td>31/12/2009</td><td>                1.841953</td>
+	</tr><tr>
+		<td>31/12/2010</td><td>                1.675106</td>
+	</tr><tr>
+		<td>31/12/2011</td><td>                2.386051</td>
+	</tr><tr>
+		<td>31/12/2012</td><td>                2.201618</td>
+	</tr><tr>
+		<td>31/12/2013</td><td>                1.402403</td>
+	</tr><tr>
+		<td>31/12/2014</td><td>               -1.743902</td>
+	</tr><tr>
+		<td>31/12/2015</td><td>                2.274689</td>
+	</tr>
+</table>

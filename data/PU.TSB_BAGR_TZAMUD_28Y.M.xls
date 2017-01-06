@@ -1,0 +1,83 @@
+﻿<table cellspacing="0" rules="all" border="1" style="border-collapse:collapse;">
+	<tr>
+		<td>Code</td><td>PU.TSB_BAGR_TZAMUD_28Y.M</td>
+	</tr><tr>
+		<td>Description</td><td>Gross yield to maturity - Indexed govt. bonds, fixed interest - 28 years</td>
+	</tr><tr>
+		<td>Frequency</td><td>Monthly (M)</td>
+	</tr><tr>
+		<td>Units</td><td>Percent</td>
+	</tr><tr>
+		<td>Price base</td><td>-</td>
+	</tr><tr>
+		<td>Seasonal adjustment</td><td>Original</td>
+	</tr><tr>
+		<td>Data source</td><td>Bank of Israel - Capital market</td>
+	</tr><tr>
+		<td>Data type</td><td>AVERAGED</td>
+	</tr><tr>
+		<td>Process</td><td>-</td>
+	</tr><tr>
+		<td>Documentation</td><td>Yield to maturity on fixed rate CPI-indexed government bond</td>
+	</tr><tr>
+		<td>Main subject</td><td>External Sector</td>
+	</tr><tr>
+		<td>Sub subject 1</td><td>Balance of payments - Financial Account</td>
+	</tr><tr>
+		<td>Sub subject 2</td><td>Nonresident Investment in Israel</td>
+	</tr><tr>
+		<td>Sub subject 3</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>Sub subject 4</td><td>&nbsp;</td>
+	</tr>
+</table><table cellspacing="0" rules="all" border="1" style="border-collapse:collapse;">
+	<tr>
+		<td>31/12/2007</td><td>                3.667273</td>
+	</tr><tr>
+		<td>31/01/2008</td><td>                3.706087</td>
+	</tr><tr>
+		<td>29/02/2008</td><td>                3.457500</td>
+	</tr><tr>
+		<td>31/03/2008</td><td>                3.469545</td>
+	</tr><tr>
+		<td>30/04/2008</td><td>                3.510000</td>
+	</tr><tr>
+		<td>31/05/2008</td><td>                3.524211</td>
+	</tr><tr>
+		<td>30/06/2008</td><td>                3.458947</td>
+	</tr><tr>
+		<td>31/07/2008</td><td>                3.529545</td>
+	</tr><tr>
+		<td>31/08/2008</td><td>                3.542500</td>
+	</tr><tr>
+		<td>30/09/2008</td><td>                3.653500</td>
+	</tr><tr>
+		<td>31/10/2008</td><td>                4.074000</td>
+	</tr><tr>
+		<td>30/11/2008</td><td>                4.365000</td>
+	</tr><tr>
+		<td>31/03/2013</td><td>                2.672222</td>
+	</tr><tr>
+		<td>30/04/2013</td><td>                2.614737</td>
+	</tr><tr>
+		<td>31/05/2013</td><td>                2.509500</td>
+	</tr><tr>
+		<td>30/06/2013</td><td>                2.627143</td>
+	</tr><tr>
+		<td>31/07/2013</td><td>                2.612727</td>
+	</tr><tr>
+		<td>31/08/2013</td><td>                2.635482</td>
+	</tr><tr>
+		<td>30/09/2013</td><td>                2.658759</td>
+	</tr><tr>
+		<td>31/10/2013</td><td>                2.571268</td>
+	</tr><tr>
+		<td>30/11/2013</td><td>                2.469963</td>
+	</tr><tr>
+		<td>31/12/2013</td><td>                2.382744</td>
+	</tr><tr>
+		<td>31/01/2014</td><td>                2.412656</td>
+	</tr><tr>
+		<td>28/02/2014</td><td>                2.337597</td>
+	</tr>
+</table>

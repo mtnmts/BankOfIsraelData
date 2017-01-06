@@ -1,0 +1,111 @@
+﻿<table cellspacing="0" rules="all" border="1" style="border-collapse:collapse;">
+	<tr>
+		<td>Code</td><td>BI.EM_K.A</td>
+	</tr><tr>
+		<td>Description</td><td>Employed - Education</td>
+	</tr><tr>
+		<td>Frequency</td><td>Annual (A)</td>
+	</tr><tr>
+		<td>Units</td><td>Thousand</td>
+	</tr><tr>
+		<td>Price base</td><td>-</td>
+	</tr><tr>
+		<td>Seasonal adjustment</td><td>Original</td>
+	</tr><tr>
+		<td>Data source</td><td>CBS</td>
+	</tr><tr>
+		<td>Data type</td><td>AVERAGED</td>
+	</tr><tr>
+		<td>Process</td><td>Bank of Israel - Statistical Data Management</td>
+	</tr><tr>
+		<td>Documentation</td><td>Values up to and including 1994 were calculated using a conversion factor published by the CBS from the old classification of Economic Activities to the new one (1993). Starting from 1995 the data chained according to the definitions of the monthly survey. The linkage was performed in the bank of Israel.</td>
+	</tr><tr>
+		<td>Main subject</td><td>External Sector</td>
+	</tr><tr>
+		<td>Sub subject 1</td><td>Balance of payments - Financial Account</td>
+	</tr><tr>
+		<td>Sub subject 2</td><td>Nonresident Investment in Israel</td>
+	</tr><tr>
+		<td>Sub subject 3</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>Sub subject 4</td><td>&nbsp;</td>
+	</tr>
+</table><table cellspacing="0" rules="all" border="1" style="border-collapse:collapse;">
+	<tr>
+		<td>31/12/1975</td><td>              112.211313</td>
+	</tr><tr>
+		<td>31/12/1976</td><td>              116.357911</td>
+	</tr><tr>
+		<td>31/12/1977</td><td>              120.859488</td>
+	</tr><tr>
+		<td>31/12/1978</td><td>              134.793016</td>
+	</tr><tr>
+		<td>31/12/1979</td><td>              138.839637</td>
+	</tr><tr>
+		<td>31/12/1980</td><td>              145.590886</td>
+	</tr><tr>
+		<td>31/12/1981</td><td>              149.194311</td>
+	</tr><tr>
+		<td>31/12/1982</td><td>              152.589099</td>
+	</tr><tr>
+		<td>31/12/1983</td><td>              154.242280</td>
+	</tr><tr>
+		<td>31/12/1984</td><td>              158.071068</td>
+	</tr><tr>
+		<td>31/12/1985</td><td>              158.403730</td>
+	</tr><tr>
+		<td>31/12/1986</td><td>              161.047516</td>
+	</tr><tr>
+		<td>31/12/1987</td><td>              161.766506</td>
+	</tr><tr>
+		<td>31/12/1988</td><td>              173.794891</td>
+	</tr><tr>
+		<td>31/12/1989</td><td>              177.434152</td>
+	</tr><tr>
+		<td>31/12/1990</td><td>              184.451058</td>
+	</tr><tr>
+		<td>31/12/1991</td><td>              200.113103</td>
+	</tr><tr>
+		<td>31/12/1992</td><td>              207.209262</td>
+	</tr><tr>
+		<td>31/12/1993</td><td>              213.153622</td>
+	</tr><tr>
+		<td>31/12/1994</td><td>              222.760044</td>
+	</tr><tr>
+		<td>31/12/1995</td><td>              256.000000</td>
+	</tr><tr>
+		<td>31/12/1996</td><td>              263.700000</td>
+	</tr><tr>
+		<td>31/12/1997</td><td>              267.200000</td>
+	</tr><tr>
+		<td>31/12/1998</td><td>              283.300000</td>
+	</tr><tr>
+		<td>31/12/1999</td><td>              289.400000</td>
+	</tr><tr>
+		<td>31/12/2000</td><td>              294.300000</td>
+	</tr><tr>
+		<td>31/12/2001</td><td>              306.400000</td>
+	</tr><tr>
+		<td>31/12/2002</td><td>              315.200000</td>
+	</tr><tr>
+		<td>31/12/2003</td><td>              323.500000</td>
+	</tr><tr>
+		<td>31/12/2004</td><td>              332.700000</td>
+	</tr><tr>
+		<td>31/12/2005</td><td>              344.400000</td>
+	</tr><tr>
+		<td>31/12/2006</td><td>              357.300000</td>
+	</tr><tr>
+		<td>31/12/2007</td><td>              377.600000</td>
+	</tr><tr>
+		<td>31/12/2008</td><td>              383.000000</td>
+	</tr><tr>
+		<td>31/12/2009</td><td>              385.400000</td>
+	</tr><tr>
+		<td>31/12/2010</td><td>              397.300000</td>
+	</tr><tr>
+		<td>31/12/2011</td><td>              416.600000</td>
+	</tr><tr>
+		<td>31/12/2012</td><td>              417.200000</td>
+	</tr>
+</table>

@@ -1,0 +1,85 @@
+﻿<table cellspacing="0" rules="all" border="1" style="border-collapse:collapse;">
+	<tr>
+		<td>Code</td><td>IM_R_UE.A</td>
+	</tr><tr>
+		<td>Description</td><td>Immigrants - Unemployed - Rate</td>
+	</tr><tr>
+		<td>Frequency</td><td>Annual (A)</td>
+	</tr><tr>
+		<td>Units</td><td>Percent</td>
+	</tr><tr>
+		<td>Price base</td><td>-</td>
+	</tr><tr>
+		<td>Seasonal adjustment</td><td>Original</td>
+	</tr><tr>
+		<td>Data source</td><td>CBS</td>
+	</tr><tr>
+		<td>Data type</td><td>AVERAGED</td>
+	</tr><tr>
+		<td>Process</td><td>-</td>
+	</tr><tr>
+		<td>Documentation</td><td>Classification of labour force surveys 1985 (Classification of economic activities 1993)</td>
+	</tr><tr>
+		<td>Main subject</td><td>External Sector</td>
+	</tr><tr>
+		<td>Sub subject 1</td><td>Balance of payments - Financial Account</td>
+	</tr><tr>
+		<td>Sub subject 2</td><td>Nonresident Investment in Israel</td>
+	</tr><tr>
+		<td>Sub subject 3</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>Sub subject 4</td><td>&nbsp;</td>
+	</tr>
+</table><table cellspacing="0" rules="all" border="1" style="border-collapse:collapse;">
+	<tr>
+		<td>31/12/1991</td><td>               38.700000</td>
+	</tr><tr>
+		<td>31/12/1992</td><td>               28.600000</td>
+	</tr><tr>
+		<td>31/12/1993</td><td>               19.300000</td>
+	</tr><tr>
+		<td>31/12/1994</td><td>               13.200000</td>
+	</tr><tr>
+		<td>31/12/1995</td><td>                9.600000</td>
+	</tr><tr>
+		<td>31/12/1996</td><td>                9.200000</td>
+	</tr><tr>
+		<td>31/12/1997</td><td>                9.900000</td>
+	</tr><tr>
+		<td>31/12/1998</td><td>               12.100000</td>
+	</tr><tr>
+		<td>31/12/1999</td><td>               11.700000</td>
+	</tr><tr>
+		<td>31/12/2000</td><td>               10.700000</td>
+	</tr><tr>
+		<td>31/12/2001</td><td>               10.900000</td>
+	</tr><tr>
+		<td>31/12/2002</td><td>               12.000000</td>
+	</tr><tr>
+		<td>31/12/2003</td><td>               11.400000</td>
+	</tr><tr>
+		<td>31/12/2004</td><td>               10.600000</td>
+	</tr><tr>
+		<td>31/12/2005</td><td>                8.700000</td>
+	</tr><tr>
+		<td>31/12/2006</td><td>                7.400000</td>
+	</tr><tr>
+		<td>31/12/2007</td><td>                6.400000</td>
+	</tr><tr>
+		<td>31/12/2008</td><td>                5.500000</td>
+	</tr><tr>
+		<td>31/12/2009</td><td>                7.300000</td>
+	</tr><tr>
+		<td>31/12/2010</td><td>                5.800000</td>
+	</tr><tr>
+		<td>31/12/2011</td><td>                5.700000</td>
+	</tr><tr>
+		<td>31/12/2012</td><td>                5.600000</td>
+	</tr><tr>
+		<td>31/12/2013</td><td>                5.100000</td>
+	</tr><tr>
+		<td>31/12/2014</td><td>                5.100000</td>
+	</tr><tr>
+		<td>31/12/2015</td><td>                4.700000</td>
+	</tr>
+</table>

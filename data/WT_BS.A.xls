@@ -1,0 +1,99 @@
+﻿<table cellspacing="0" rules="all" border="1" style="border-collapse:collapse;">
+	<tr>
+		<td>Code</td><td>WT_BS.A</td>
+	</tr><tr>
+		<td>Description</td><td>Labour input - Business sector</td>
+	</tr><tr>
+		<td>Frequency</td><td>Annual (A)</td>
+	</tr><tr>
+		<td>Units</td><td>Thousand hours</td>
+	</tr><tr>
+		<td>Price base</td><td>-</td>
+	</tr><tr>
+		<td>Seasonal adjustment</td><td>Original</td>
+	</tr><tr>
+		<td>Data source</td><td>CBS</td>
+	</tr><tr>
+		<td>Data type</td><td>AVERAGED</td>
+	</tr><tr>
+		<td>Process</td><td>Bank of Israel - Statistical Data Management</td>
+	</tr><tr>
+		<td>Documentation</td><td>Chained according to the definitions of the monthly survey. For details, see http://www.cbs.gov.il/publications12/saka0112Q/pdf/intro_f_e.pdf. Also chained between various classifications of economic activities (performed in the Bank of Israel)</td>
+	</tr><tr>
+		<td>Main subject</td><td>External Sector</td>
+	</tr><tr>
+		<td>Sub subject 1</td><td>Balance of payments - Financial Account</td>
+	</tr><tr>
+		<td>Sub subject 2</td><td>Nonresident Investment in Israel</td>
+	</tr><tr>
+		<td>Sub subject 3</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>Sub subject 4</td><td>&nbsp;</td>
+	</tr>
+</table><table cellspacing="0" rules="all" border="1" style="border-collapse:collapse;">
+	<tr>
+		<td>31/12/1984</td><td>            34918.135680</td>
+	</tr><tr>
+		<td>31/12/1985</td><td>            35064.645682</td>
+	</tr><tr>
+		<td>31/12/1986</td><td>            35620.550693</td>
+	</tr><tr>
+		<td>31/12/1987</td><td>            36784.790716</td>
+	</tr><tr>
+		<td>31/12/1988</td><td>            37913.750738</td>
+	</tr><tr>
+		<td>31/12/1989</td><td>            38597.790751</td>
+	</tr><tr>
+		<td>31/12/1990</td><td>            39187.750763</td>
+	</tr><tr>
+		<td>31/12/1991</td><td>            41459.145807</td>
+	</tr><tr>
+		<td>31/12/1992</td><td>            44427.565865</td>
+	</tr><tr>
+		<td>31/12/1993</td><td>            47935.230933</td>
+	</tr><tr>
+		<td>31/12/1994</td><td>            52323.671018</td>
+	</tr><tr>
+		<td>31/12/1995</td><td>            55599.593163</td>
+	</tr><tr>
+		<td>31/12/1996</td><td>            57057.559382</td>
+	</tr><tr>
+		<td>31/12/1997</td><td>            57248.434072</td>
+	</tr><tr>
+		<td>31/12/1998</td><td>            56646.622394</td>
+	</tr><tr>
+		<td>31/12/1999</td><td>            58721.005765</td>
+	</tr><tr>
+		<td>31/12/2000</td><td>            62530.665310</td>
+	</tr><tr>
+		<td>31/12/2001</td><td>            61487.616107</td>
+	</tr><tr>
+		<td>31/12/2002</td><td>            61644.958133</td>
+	</tr><tr>
+		<td>31/12/2003</td><td>            63453.042574</td>
+	</tr><tr>
+		<td>31/12/2004</td><td>            66188.175023</td>
+	</tr><tr>
+		<td>31/12/2005</td><td>            68261.692972</td>
+	</tr><tr>
+		<td>31/12/2006</td><td>            70978.535458</td>
+	</tr><tr>
+		<td>31/12/2007</td><td>            74714.408348</td>
+	</tr><tr>
+		<td>31/12/2008</td><td>            76771.062074</td>
+	</tr><tr>
+		<td>31/12/2009</td><td>            76084.368388</td>
+	</tr><tr>
+		<td>31/12/2010</td><td>            78280.350487</td>
+	</tr><tr>
+		<td>31/12/2011</td><td>            79389.116808</td>
+	</tr><tr>
+		<td>31/12/2012</td><td>            82387.267500</td>
+	</tr><tr>
+		<td>31/12/2013</td><td>            83199.505016</td>
+	</tr><tr>
+		<td>31/12/2014</td><td>            84654.737518</td>
+	</tr><tr>
+		<td>31/12/2015</td><td>            86860.197486</td>
+	</tr>
+</table>

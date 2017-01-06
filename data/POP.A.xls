@@ -1,0 +1,77 @@
+﻿<table cellspacing="0" rules="all" border="1" style="border-collapse:collapse;">
+	<tr>
+		<td>Code</td><td>POP.A</td>
+	</tr><tr>
+		<td>Description</td><td>Population in work-age - Total</td>
+	</tr><tr>
+		<td>Frequency</td><td>Annual (A)</td>
+	</tr><tr>
+		<td>Units</td><td>Thousand</td>
+	</tr><tr>
+		<td>Price base</td><td>-</td>
+	</tr><tr>
+		<td>Seasonal adjustment</td><td>Original</td>
+	</tr><tr>
+		<td>Data source</td><td>CBS</td>
+	</tr><tr>
+		<td>Data type</td><td>AVERAGED</td>
+	</tr><tr>
+		<td>Process</td><td>Bank of Israel - Statistical Data Management</td>
+	</tr><tr>
+		<td>Documentation</td><td>Chained according to the definitions of the monthly survey. For details, see http://www.cbs.gov.il/publications12/saka0112Q/pdf/intro_f_e.pdf.</td>
+	</tr><tr>
+		<td>Main subject</td><td>External Sector</td>
+	</tr><tr>
+		<td>Sub subject 1</td><td>Balance of payments - Financial Account</td>
+	</tr><tr>
+		<td>Sub subject 2</td><td>Nonresident Investment in Israel</td>
+	</tr><tr>
+		<td>Sub subject 3</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>Sub subject 4</td><td>&nbsp;</td>
+	</tr>
+</table><table cellspacing="0" rules="all" border="1" style="border-collapse:collapse;">
+	<tr>
+		<td>31/12/1995</td><td>             3958.500000</td>
+	</tr><tr>
+		<td>31/12/1996</td><td>             4076.800000</td>
+	</tr><tr>
+		<td>31/12/1997</td><td>             4187.600000</td>
+	</tr><tr>
+		<td>31/12/1998</td><td>             4301.600000</td>
+	</tr><tr>
+		<td>31/12/1999</td><td>             4418.800000</td>
+	</tr><tr>
+		<td>31/12/2000</td><td>             4548.800000</td>
+	</tr><tr>
+		<td>31/12/2001</td><td>             4668.300000</td>
+	</tr><tr>
+		<td>31/12/2002</td><td>             4771.200000</td>
+	</tr><tr>
+		<td>31/12/2003</td><td>             4858.000000</td>
+	</tr><tr>
+		<td>31/12/2004</td><td>             4943.300000</td>
+	</tr><tr>
+		<td>31/12/2005</td><td>             5031.900000</td>
+	</tr><tr>
+		<td>31/12/2006</td><td>             5122.900000</td>
+	</tr><tr>
+		<td>31/12/2007</td><td>             5213.500000</td>
+	</tr><tr>
+		<td>31/12/2008</td><td>             5305.200000</td>
+	</tr><tr>
+		<td>31/12/2009</td><td>             5398.700000</td>
+	</tr><tr>
+		<td>31/12/2010</td><td>             5488.600000</td>
+	</tr><tr>
+		<td>31/12/2011</td><td>             5584.900000</td>
+	</tr><tr>
+		<td>31/12/2012</td><td>             5672.000000</td>
+	</tr><tr>
+		<td>31/12/2013</td><td>             5775.100000</td>
+	</tr><tr>
+		<td>31/12/2014</td><td>             5884.700000</td>
+	</tr><tr>
+		<td>31/12/2015</td><td>             6000.200000</td>
+	</tr>
+</table>

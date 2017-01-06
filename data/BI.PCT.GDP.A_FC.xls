@@ -1,0 +1,75 @@
+﻿<table cellspacing="0" rules="all" border="1" style="border-collapse:collapse;">
+	<tr>
+		<td>Code</td><td>BI.PCT.GDP.A_FC</td>
+	</tr><tr>
+		<td>Description</td><td>GDP by Industries - Whole economy - at basis price - quantity change</td>
+	</tr><tr>
+		<td>Frequency</td><td>Annual (A)</td>
+	</tr><tr>
+		<td>Units</td><td>Percent</td>
+	</tr><tr>
+		<td>Price base</td><td>Fixed prices, varying base</td>
+	</tr><tr>
+		<td>Seasonal adjustment</td><td>Original</td>
+	</tr><tr>
+		<td>Data source</td><td>CBS</td>
+	</tr><tr>
+		<td>Data type</td><td>SUMMED</td>
+	</tr><tr>
+		<td>Process</td><td>Bank of Israel - Statistical Data Management</td>
+	</tr><tr>
+		<td>Documentation</td><td>Linked between different CBS classification systems of NA by Bank of Israel.</td>
+	</tr><tr>
+		<td>Main subject</td><td>External Sector</td>
+	</tr><tr>
+		<td>Sub subject 1</td><td>Balance of payments - Financial Account</td>
+	</tr><tr>
+		<td>Sub subject 2</td><td>Nonresident Investment in Israel</td>
+	</tr><tr>
+		<td>Sub subject 3</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>Sub subject 4</td><td>&nbsp;</td>
+	</tr>
+</table><table cellspacing="0" rules="all" border="1" style="border-collapse:collapse;">
+	<tr>
+		<td>31/12/1996</td><td>                6.035730</td>
+	</tr><tr>
+		<td>31/12/1997</td><td>                4.044241</td>
+	</tr><tr>
+		<td>31/12/1998</td><td>                4.158558</td>
+	</tr><tr>
+		<td>31/12/1999</td><td>                3.542445</td>
+	</tr><tr>
+		<td>31/12/2000</td><td>                8.845993</td>
+	</tr><tr>
+		<td>31/12/2001</td><td>                0.093687</td>
+	</tr><tr>
+		<td>31/12/2002</td><td>               -0.194879</td>
+	</tr><tr>
+		<td>31/12/2003</td><td>                1.118853</td>
+	</tr><tr>
+		<td>31/12/2004</td><td>                5.048578</td>
+	</tr><tr>
+		<td>31/12/2005</td><td>                4.151805</td>
+	</tr><tr>
+		<td>31/12/2006</td><td>                5.706784</td>
+	</tr><tr>
+		<td>31/12/2007</td><td>                6.214168</td>
+	</tr><tr>
+		<td>31/12/2008</td><td>                3.005424</td>
+	</tr><tr>
+		<td>31/12/2009</td><td>                1.390935</td>
+	</tr><tr>
+		<td>31/12/2010</td><td>                5.655600</td>
+	</tr><tr>
+		<td>31/12/2011</td><td>                5.062443</td>
+	</tr><tr>
+		<td>31/12/2012</td><td>                2.381558</td>
+	</tr><tr>
+		<td>31/12/2013</td><td>                4.376260</td>
+	</tr><tr>
+		<td>31/12/2014</td><td>                3.162835</td>
+	</tr><tr>
+		<td>31/12/2015</td><td>                2.507775</td>
+	</tr>
+</table>

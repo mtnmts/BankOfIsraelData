@@ -1,0 +1,109 @@
+﻿<table cellspacing="0" rules="all" border="1" style="border-collapse:collapse;">
+	<tr>
+		<td>Code</td><td>PU.TSB_BAGR_TZAMUD_17Y.M</td>
+	</tr><tr>
+		<td>Description</td><td>Gross yield to maturity - Indexed govt. bonds, fixed interest - 17 years</td>
+	</tr><tr>
+		<td>Frequency</td><td>Monthly (M)</td>
+	</tr><tr>
+		<td>Units</td><td>Percent</td>
+	</tr><tr>
+		<td>Price base</td><td>-</td>
+	</tr><tr>
+		<td>Seasonal adjustment</td><td>Original</td>
+	</tr><tr>
+		<td>Data source</td><td>Bank of Israel - Capital market</td>
+	</tr><tr>
+		<td>Data type</td><td>AVERAGED</td>
+	</tr><tr>
+		<td>Process</td><td>-</td>
+	</tr><tr>
+		<td>Documentation</td><td>Yield to maturity on fixed rate CPI-indexed government bond</td>
+	</tr><tr>
+		<td>Main subject</td><td>External Sector</td>
+	</tr><tr>
+		<td>Sub subject 1</td><td>Balance of payments - Financial Account</td>
+	</tr><tr>
+		<td>Sub subject 2</td><td>Nonresident Investment in Israel</td>
+	</tr><tr>
+		<td>Sub subject 3</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>Sub subject 4</td><td>&nbsp;</td>
+	</tr>
+</table><table cellspacing="0" rules="all" border="1" style="border-collapse:collapse;">
+	<tr>
+		<td>31/01/1992</td><td>                3.587619</td>
+	</tr><tr>
+		<td>29/02/1992</td><td>                3.517000</td>
+	</tr><tr>
+		<td>31/03/1992</td><td>                3.428636</td>
+	</tr><tr>
+		<td>30/04/1992</td><td>                3.468636</td>
+	</tr><tr>
+		<td>31/05/1992</td><td>                3.346000</td>
+	</tr><tr>
+		<td>30/06/1992</td><td>                3.011000</td>
+	</tr><tr>
+		<td>31/07/1992</td><td>                2.553636</td>
+	</tr><tr>
+		<td>31/08/1992</td><td>                2.738095</td>
+	</tr><tr>
+		<td>30/09/1992</td><td>                2.434500</td>
+	</tr><tr>
+		<td>31/10/1992</td><td>                2.528824</td>
+	</tr><tr>
+		<td>30/11/1992</td><td>                2.535909</td>
+	</tr><tr>
+		<td>31/12/1992</td><td>                2.443913</td>
+	</tr><tr>
+		<td>31/01/1993</td><td>                2.367143</td>
+	</tr><tr>
+		<td>29/02/2004</td><td>                4.290000</td>
+	</tr><tr>
+		<td>31/03/2004</td><td>                4.379545</td>
+	</tr><tr>
+		<td>30/04/2004</td><td>                4.558000</td>
+	</tr><tr>
+		<td>31/05/2004</td><td>                4.653000</td>
+	</tr><tr>
+		<td>30/06/2004</td><td>                4.604545</td>
+	</tr><tr>
+		<td>31/07/2004</td><td>                4.575000</td>
+	</tr><tr>
+		<td>31/08/2004</td><td>                4.602174</td>
+	</tr><tr>
+		<td>30/09/2004</td><td>                4.518125</td>
+	</tr><tr>
+		<td>31/10/2004</td><td>                4.562632</td>
+	</tr><tr>
+		<td>30/11/2004</td><td>                4.502727</td>
+	</tr><tr>
+		<td>31/12/2004</td><td>                4.375909</td>
+	</tr><tr>
+		<td>31/01/2005</td><td>                4.241905</td>
+	</tr><tr>
+		<td>28/02/2007</td><td>                3.327000</td>
+	</tr><tr>
+		<td>31/03/2007</td><td>                3.364000</td>
+	</tr><tr>
+		<td>30/04/2007</td><td>                3.272500</td>
+	</tr><tr>
+		<td>31/05/2007</td><td>                3.026667</td>
+	</tr><tr>
+		<td>30/06/2007</td><td>                3.220000</td>
+	</tr><tr>
+		<td>31/07/2007</td><td>                3.443182</td>
+	</tr><tr>
+		<td>31/08/2007</td><td>                3.841364</td>
+	</tr><tr>
+		<td>30/09/2007</td><td>                3.807059</td>
+	</tr><tr>
+		<td>31/10/2007</td><td>                3.589048</td>
+	</tr><tr>
+		<td>30/11/2007</td><td>                3.502857</td>
+	</tr><tr>
+		<td>31/12/2007</td><td>                3.574091</td>
+	</tr><tr>
+		<td>31/01/2008</td><td>                3.628696</td>
+	</tr>
+</table>

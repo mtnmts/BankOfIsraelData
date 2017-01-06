@@ -1,0 +1,117 @@
+﻿<table cellspacing="0" rules="all" border="1" style="border-collapse:collapse;">
+	<tr>
+		<td>Code</td><td>BI.LF_R.A</td>
+	</tr><tr>
+		<td>Description</td><td>Civilian labour force - Rate</td>
+	</tr><tr>
+		<td>Frequency</td><td>Annual (A)</td>
+	</tr><tr>
+		<td>Units</td><td>Percent</td>
+	</tr><tr>
+		<td>Price base</td><td>-</td>
+	</tr><tr>
+		<td>Seasonal adjustment</td><td>Original</td>
+	</tr><tr>
+		<td>Data source</td><td>CBS</td>
+	</tr><tr>
+		<td>Data type</td><td>AVERAGED</td>
+	</tr><tr>
+		<td>Process</td><td>Bank of Israel - Statistical Data Management</td>
+	</tr><tr>
+		<td>Documentation</td><td>Combination of various categories of the manpower surveys (without the concatenation coefficient). Linking performed in the bank of Israel.</td>
+	</tr><tr>
+		<td>Main subject</td><td>External Sector</td>
+	</tr><tr>
+		<td>Sub subject 1</td><td>Balance of payments - Financial Account</td>
+	</tr><tr>
+		<td>Sub subject 2</td><td>Nonresident Investment in Israel</td>
+	</tr><tr>
+		<td>Sub subject 3</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>Sub subject 4</td><td>&nbsp;</td>
+	</tr>
+</table><table cellspacing="0" rules="all" border="1" style="border-collapse:collapse;">
+	<tr>
+		<td>31/12/1975</td><td>               48.098815</td>
+	</tr><tr>
+		<td>31/12/1976</td><td>               48.088904</td>
+	</tr><tr>
+		<td>31/12/1977</td><td>               48.602159</td>
+	</tr><tr>
+		<td>31/12/1978</td><td>               49.676120</td>
+	</tr><tr>
+		<td>31/12/1979</td><td>               49.215951</td>
+	</tr><tr>
+		<td>31/12/1980</td><td>               49.537733</td>
+	</tr><tr>
+		<td>31/12/1981</td><td>               49.784029</td>
+	</tr><tr>
+		<td>31/12/1982</td><td>               49.570201</td>
+	</tr><tr>
+		<td>31/12/1983</td><td>               49.854269</td>
+	</tr><tr>
+		<td>31/12/1984</td><td>               50.217338</td>
+	</tr><tr>
+		<td>31/12/1985</td><td>               50.700000</td>
+	</tr><tr>
+		<td>31/12/1986</td><td>               50.600000</td>
+	</tr><tr>
+		<td>31/12/1987</td><td>               50.500000</td>
+	</tr><tr>
+		<td>31/12/1988</td><td>               51.400000</td>
+	</tr><tr>
+		<td>31/12/1989</td><td>               52.000000</td>
+	</tr><tr>
+		<td>31/12/1990</td><td>               51.500000</td>
+	</tr><tr>
+		<td>31/12/1991</td><td>               51.700000</td>
+	</tr><tr>
+		<td>31/12/1992</td><td>               52.000000</td>
+	</tr><tr>
+		<td>31/12/1993</td><td>               52.800000</td>
+	</tr><tr>
+		<td>31/12/1994</td><td>               53.600000</td>
+	</tr><tr>
+		<td>31/12/1995</td><td>               54.000000</td>
+	</tr><tr>
+		<td>31/12/1996</td><td>               53.600000</td>
+	</tr><tr>
+		<td>31/12/1997</td><td>               53.400000</td>
+	</tr><tr>
+		<td>31/12/1998</td><td>               53.400000</td>
+	</tr><tr>
+		<td>31/12/1999</td><td>               53.800000</td>
+	</tr><tr>
+		<td>31/12/2000</td><td>               54.300000</td>
+	</tr><tr>
+		<td>31/12/2001</td><td>               54.300000</td>
+	</tr><tr>
+		<td>31/12/2002</td><td>               54.100000</td>
+	</tr><tr>
+		<td>31/12/2003</td><td>               54.500000</td>
+	</tr><tr>
+		<td>31/12/2004</td><td>               55.000000</td>
+	</tr><tr>
+		<td>31/12/2005</td><td>               55.200000</td>
+	</tr><tr>
+		<td>31/12/2006</td><td>               55.600000</td>
+	</tr><tr>
+		<td>31/12/2007</td><td>               56.300000</td>
+	</tr><tr>
+		<td>31/12/2008</td><td>               56.500000</td>
+	</tr><tr>
+		<td>31/12/2009</td><td>               57.000000</td>
+	</tr><tr>
+		<td>31/12/2010</td><td>               57.400000</td>
+	</tr><tr>
+		<td>31/12/2011</td><td>               57.400000</td>
+	</tr><tr>
+		<td>31/12/2012</td><td>               63.600000</td>
+	</tr><tr>
+		<td>31/12/2013</td><td>               63.700000</td>
+	</tr><tr>
+		<td>31/12/2014</td><td>               64.200000</td>
+	</tr><tr>
+		<td>31/12/2015</td><td>               64.100000</td>
+	</tr>
+</table>
